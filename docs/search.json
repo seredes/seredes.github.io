@@ -124,5 +124,635 @@
     "title": "CLAUDE.md",
     "section": "",
     "text": "The visual editor mode is enabled (editor: visual in _quarto.yml), but .qmd source files can be edited as plain markdown.\nNavigation is defined in _quarto.yml under website.navbar.left. To add a new page, create a .qmd file and add a corresponding navbar entry.\nImages go in the images/ directory.\nThe project includes an .Rproj file for RStudio integration; R code chunks can be used in .qmd files if needed."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#what-is-statistics",
+    "href": "teaching/lecture1_slides16-25.html#what-is-statistics",
+    "title": "Quantitative Methods",
+    "section": "What is Statistics?",
+    "text": "What is Statistics?\n\n\nThe practice of collecting and collating numerical facts\n\nGoes back to beginning of human civilization.\n… in 1749, word Statistik introduced by Gottfried Achenwall.\nFrom the Latin statisticum (“of the state”).\nIt designated the collection of data about the state."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#the-definition-of-statistics",
+    "href": "teaching/lecture1_slides16-25.html#the-definition-of-statistics",
+    "title": "Quantitative Methods",
+    "section": "The Definition of Statistics",
+    "text": "The Definition of Statistics\n\n\n\nThe process of reasoning about the data collected\n\nInferential statistics:\n\nParameter estimation\nHypothesis testing"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#why-do-we-need-statistics",
+    "href": "teaching/lecture1_slides16-25.html#why-do-we-need-statistics",
+    "title": "Quantitative Methods",
+    "section": "Why do we need statistics?",
+    "text": "Why do we need statistics?\n\nWhat is biology about?\nWhat is economics about?\nWhat is sociology about?\n…What is statistics about?\n\n\nStatistics is about variation.\nStatistics helps us make sense of the data and how the data vary.\nStatistics is a collection of conceptual and mathematical tools that allow us to study such variation."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#why-is-statistics-important-for-psychology",
+    "href": "teaching/lecture1_slides16-25.html#why-is-statistics-important-for-psychology",
+    "title": "Quantitative Methods",
+    "section": "Why is Statistics important for Psychology?",
+    "text": "Why is Statistics important for Psychology?\nThe use of Statistics qualifies Psychology as a science…\n\nUsing statistics we can determine whether a psychological hypothesis is true for a wider population, or whether a treatment works or not.\n\n\nStatistical methods provide a unifying force within Psychology."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics",
+    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nStarting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:\n\n\n\nField\nContribution\n\n\n\n\nDemography\nStatistical summaries\n\n\nAstronomy\nTheory of errors, normal distribution\n\n\nGambling\nProbability theory\n\n\nAgriculture\nExperimental design"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-1",
+    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-1",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nLet’s take a step back…\n\nIn 1687 Newton published Principia Mathematica\n\nLaws of motion, gravitation\nNow it’s possible to predict mathematically the movement of objects, including stars!\n\n\n\nBut what about other complex phenomena?"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-2",
+    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-2",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nAt some point it was found that many events follow what we call a normal distribution.\nHow did they find out?"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-3",
+    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-3",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nStarting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:\n\nDemography → statistical summaries\nAstronomy → theory of errors → normal distribution\nGambling → probability theory\nAgriculture → experimental design"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#demography",
+    "href": "teaching/lecture1_slides16-25.html#demography",
+    "title": "Quantitative Methods",
+    "section": "Demography",
+    "text": "Demography\nJohn Graunt, a London haberdasher, born in 1620, tried to predict and explain social phenomena from tables he compiled from the “Bills of Mortality”."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#astronomy",
+    "href": "teaching/lecture1_slides16-25.html#astronomy",
+    "title": "Quantitative Methods",
+    "section": "Astronomy",
+    "text": "Astronomy\nFor science to progress, scientists propose hypotheses to test.\n\nIn order to do that, they need to collect data…\n\n\nIn order to collect data, scientists must make experimental measurements."
+  },
+  {
+    "objectID": "teaching/lecture1.html#section",
+    "href": "teaching/lecture1.html#section",
+    "title": "Quantitative Methods",
+    "section": "",
+    "text": "Introduction"
+  },
+  {
+    "objectID": "teaching/lecture1.html#welcome-to-quantitative-methods",
+    "href": "teaching/lecture1.html#welcome-to-quantitative-methods",
+    "title": "Quantitative Methods",
+    "section": "Welcome to Quantitative Methods!",
+    "text": "Welcome to Quantitative Methods!\nCourse Information\n\nLOCATION: Online!\nDAY/TIMES: M,T,W,R 2:00PM-4:30PM (attendance is mandatory)\n\nTextbook: Stats: Data and Models, 4th Edition\nLet’s introduce ourselves.\nLet’s look at the Syllabus."
+  },
+  {
+    "objectID": "teaching/lecture1.html#outline",
+    "href": "teaching/lecture1.html#outline",
+    "title": "Quantitative Methods",
+    "section": "Outline",
+    "text": "Outline\n\nDefinition of Statistics\nBrief history of Statistics (first part)\nData and variables\nCategorical Data"
+  },
+  {
+    "objectID": "teaching/lecture1.html#section-1",
+    "href": "teaching/lecture1.html#section-1",
+    "title": "Quantitative Methods",
+    "section": "",
+    "text": "Statistics\nThe Hottest Career of the 21st Century"
+  },
+  {
+    "objectID": "teaching/lecture1.html#section-2",
+    "href": "teaching/lecture1.html#section-2",
+    "title": "Quantitative Methods",
+    "section": "",
+    "text": "What is statistics?\nIt’s not what you think it is."
+  },
+  {
+    "objectID": "teaching/lecture1.html#so-what-is-statistics",
+    "href": "teaching/lecture1.html#so-what-is-statistics",
+    "title": "Quantitative Methods",
+    "section": "So, what is statistics?",
+    "text": "So, what is statistics?\nStatistics is…\n\nThe science of learning from data\nIt’s analyzing information\nIt’s creating models to capture insights\nIt’s solving complex problems"
+  },
+  {
+    "objectID": "teaching/lecture1.html#so-what-do-statisticians-do",
+    "href": "teaching/lecture1.html#so-what-do-statisticians-do",
+    "title": "Quantitative Methods",
+    "section": "So, what do statisticians do?",
+    "text": "So, what do statisticians do?\nStatisticians…\n\nHelp companies make sense of the world around us by analyzing data.\nUse data to solve complex problems, in fields like business, medicine, public service and more."
+  },
+  {
+    "objectID": "teaching/lecture1.html#statisticians-help-manage-the-earths-natural-resources",
+    "href": "teaching/lecture1.html#statisticians-help-manage-the-earths-natural-resources",
+    "title": "Quantitative Methods",
+    "section": "Statisticians help manage the earth’s natural resources",
+    "text": "Statisticians help manage the earth’s natural resources\n\nFjallsjokull glacier in Iceland"
+  },
+  {
+    "objectID": "teaching/lecture1.html#statisticians-reduce-disease-and-improve-medicines",
+    "href": "teaching/lecture1.html#statisticians-reduce-disease-and-improve-medicines",
+    "title": "Quantitative Methods",
+    "section": "Statisticians reduce disease and improve medicines",
+    "text": "Statisticians reduce disease and improve medicines\n\nSpiral strand of DNA"
+  },
+  {
+    "objectID": "teaching/lecture1.html#statisticians-work-for-professional-sports-teams-to-make-strategic-draft-picks",
+    "href": "teaching/lecture1.html#statisticians-work-for-professional-sports-teams-to-make-strategic-draft-picks",
+    "title": "Quantitative Methods",
+    "section": "Statisticians work for professional sports teams to make strategic draft picks",
+    "text": "Statisticians work for professional sports teams to make strategic draft picks\n\nJarvis Hayes, Darius Songalia, Mark Madsen and Rashad McCants. Image source: Keith Allison"
+  },
+  {
+    "objectID": "teaching/lecture1.html#statisticians-improve-voter-targeting-and-assess-the-success-of-government-policies-and-programs",
+    "href": "teaching/lecture1.html#statisticians-improve-voter-targeting-and-assess-the-success-of-government-policies-and-programs",
+    "title": "Quantitative Methods",
+    "section": "Statisticians improve voter targeting and assess the success of government policies and programs",
+    "text": "Statisticians improve voter targeting and assess the success of government policies and programs\n\nPresident Barack Obama campaign rally in Urbandale, Iowa, 2012. Image source: White House"
+  },
+  {
+    "objectID": "teaching/lecture1.html#statisticians-help-protect-human-rights-in-developing-countries",
+    "href": "teaching/lecture1.html#statisticians-help-protect-human-rights-in-developing-countries",
+    "title": "Quantitative Methods",
+    "section": "Statisticians help protect human rights in developing countries",
+    "text": "Statisticians help protect human rights in developing countries\n\nYezidi children in an internally displaced person camp in Sharya, Iraq. Image source: Human Rights Data Analysis Group"
+  },
+  {
+    "objectID": "teaching/lecture1.html#statisticians-advance-computing-through-machine-learning-speech-recognition-and-artificial-intelligence",
+    "href": "teaching/lecture1.html#statisticians-advance-computing-through-machine-learning-speech-recognition-and-artificial-intelligence",
+    "title": "Quantitative Methods",
+    "section": "Statisticians advance computing through machine learning, speech recognition and artificial intelligence",
+    "text": "Statisticians advance computing through machine learning, speech recognition and artificial intelligence\n\nData center"
+  },
+  {
+    "objectID": "teaching/lecture1.html#statisticians-are-crucial-to-making-industry-more-efficient-and-financial-institutions-stronger",
+    "href": "teaching/lecture1.html#statisticians-are-crucial-to-making-industry-more-efficient-and-financial-institutions-stronger",
+    "title": "Quantitative Methods",
+    "section": "Statisticians are crucial to making industry more efficient and financial institutions stronger",
+    "text": "Statisticians are crucial to making industry more efficient and financial institutions stronger\n\nBudweiser plant. Image source: Ryan Glenn"
+  },
+  {
+    "objectID": "teaching/lecture1.html#section-3",
+    "href": "teaching/lecture1.html#section-3",
+    "title": "Quantitative Methods",
+    "section": "",
+    "text": "Why study statistics?\nThe opportunity is endless."
+  },
+  {
+    "objectID": "teaching/lecture1.html#what-is-statistics-1",
+    "href": "teaching/lecture1.html#what-is-statistics-1",
+    "title": "Quantitative Methods",
+    "section": "What is Statistics?",
+    "text": "What is Statistics?\n\n\nThe practice of collecting and collating numerical facts\n\nGoes back to beginning of human civilization.\n… in 1749, word Statistik introduced by Gottfried Achenwall.\nFrom the Latin statisticum (“of the state”).\nIt designated the collection of data about the state."
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-definition-of-statistics",
+    "href": "teaching/lecture1.html#the-definition-of-statistics",
+    "title": "Quantitative Methods",
+    "section": "The Definition of Statistics",
+    "text": "The Definition of Statistics\n\n\n\nThe process of reasoning about the data collected\n\nInferential statistics:\n\nParameter estimation\nHypothesis testing"
+  },
+  {
+    "objectID": "teaching/lecture1.html#why-do-we-need-statistics",
+    "href": "teaching/lecture1.html#why-do-we-need-statistics",
+    "title": "Quantitative Methods",
+    "section": "Why do we need statistics?",
+    "text": "Why do we need statistics?\n\nWhat is biology about?\nWhat is economics about?\nWhat is sociology about?\n…What is statistics about?\n\n\nStatistics is about variation.\nStatistics helps us make sense of the data and how the data vary.\nStatistics is a collection of conceptual and mathematical tools that allow us to study such variation."
+  },
+  {
+    "objectID": "teaching/lecture1.html#why-is-statistics-important-for-psychology",
+    "href": "teaching/lecture1.html#why-is-statistics-important-for-psychology",
+    "title": "Quantitative Methods",
+    "section": "Why is Statistics important for Psychology?",
+    "text": "Why is Statistics important for Psychology?\nThe use of Statistics qualifies Psychology as a science…\n\nUsing statistics we can determine whether a psychological hypothesis is true for a wider population, or whether a treatment works or not.\n\n\nStatistical methods provide a unifying force within Psychology."
+  },
+  {
+    "objectID": "teaching/lecture1.html#whats-the-origin-of-statistics",
+    "href": "teaching/lecture1.html#whats-the-origin-of-statistics",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nStarting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:\n\n\n\nField\nContribution\n\n\n\n\nDemography\nStatistical summaries\n\n\nAstronomy\nTheory of errors, normal distribution\n\n\nGambling\nProbability theory\n\n\nAgriculture\nExperimental design"
+  },
+  {
+    "objectID": "teaching/lecture1.html#whats-the-origin-of-statistics-1",
+    "href": "teaching/lecture1.html#whats-the-origin-of-statistics-1",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nLet’s take a step back…\n\nIn 1687 Newton published Principia Mathematica\n\nLaws of motion, gravitation\nNow it’s possible to predict mathematically the movement of objects, including stars!\n\n\n\nBut what about other complex phenomena?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#whats-the-origin-of-statistics-2",
+    "href": "teaching/lecture1.html#whats-the-origin-of-statistics-2",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nAt some point it was found that many events follow what we call a normal distribution.\nHow did they find out?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#whats-the-origin-of-statistics-3",
+    "href": "teaching/lecture1.html#whats-the-origin-of-statistics-3",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nStarting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:\n\nDemography → statistical summaries\nAstronomy → theory of errors → normal distribution\nGambling → probability theory\nAgriculture → experimental design"
+  },
+  {
+    "objectID": "teaching/lecture1.html#demography",
+    "href": "teaching/lecture1.html#demography",
+    "title": "Quantitative Methods",
+    "section": "Demography",
+    "text": "Demography\nJohn Graunt, a London haberdasher, born in 1620, tried to predict and explain social phenomena from tables he compiled from the “Bills of Mortality”."
+  },
+  {
+    "objectID": "teaching/lecture1.html#astronomy",
+    "href": "teaching/lecture1.html#astronomy",
+    "title": "Quantitative Methods",
+    "section": "Astronomy",
+    "text": "Astronomy\nFor science to progress, scientists propose hypotheses to test.\n\nIn order to do that, they need to collect data…\n\n\nIn order to collect data, scientists must make experimental measurements."
+  },
+  {
+    "objectID": "teaching/lecture1.html#astronomy-1",
+    "href": "teaching/lecture1.html#astronomy-1",
+    "title": "Quantitative Methods",
+    "section": "Astronomy",
+    "text": "Astronomy\nBut how to measure the position of the stars?!\nInitially, by the naked eye.\nTycho Brahe, a Dane, worked from ~1570-1601 and built the most accurate naked eye observatory ever.\nScientists used to make one observation only – Problem of errors\n1720, Roger Cotes: reporting the arithmetic average of a group of observations decreased the error of the measurement process."
+  },
+  {
+    "objectID": "teaching/lecture1.html#astronomy-2",
+    "href": "teaching/lecture1.html#astronomy-2",
+    "title": "Quantitative Methods",
+    "section": "Astronomy",
+    "text": "Astronomy\n1755 Thomas Simpson proposed that the mean of a series of observations was a better estimate of the true quantity of the object to be measured than any single observation, however meticulously obtained.\n1755 Bayes, in a comment on Simpson, noted that the mean only made sense as a superior estimator if the deviations from the mean were symmetric about it.\nSimpson took note and revised his recommendation in 1757: report both the mean (as the “best” estimate) and the scatter of the deviations from the mean."
+  },
+  {
+    "objectID": "teaching/lecture1.html#astronomy-3",
+    "href": "teaching/lecture1.html#astronomy-3",
+    "title": "Quantitative Methods",
+    "section": "Astronomy",
+    "text": "Astronomy\nSo scientists are now talking about more than one observation and reporting the mean and the deviations from the mean (errors).\n\nBut do these errors have a regular distribution???"
+  },
+  {
+    "objectID": "teaching/lecture1.html#gambling",
+    "href": "teaching/lecture1.html#gambling",
+    "title": "Quantitative Methods",
+    "section": "Gambling",
+    "text": "Gambling\nAntoine Gombauld, the Chevalier de Mere, a writer and gambler, consulted his friend, Blaise Pascal (1623-1662) on how to calculate expected (probable) frequency of gains and losses, and how to divide the stakes fairly if the game was interrupted."
+  },
+  {
+    "objectID": "teaching/lecture1.html#gambling-1",
+    "href": "teaching/lecture1.html#gambling-1",
+    "title": "Quantitative Methods",
+    "section": "Gambling",
+    "text": "Gambling\nPascal did not know the solution and wrote to his friend Fermat.\nCorrespondence between Gombauld, Pascal and Fermat: the birth of probability theory"
+  },
+  {
+    "objectID": "teaching/lecture1.html#probability",
+    "href": "teaching/lecture1.html#probability",
+    "title": "Quantitative Methods",
+    "section": "Probability",
+    "text": "Probability\nPascal connected the study of probability with the arithmetic triangle:"
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-arithmetic-triangle",
+    "href": "teaching/lecture1.html#the-arithmetic-triangle",
+    "title": "Quantitative Methods",
+    "section": "The arithmetic triangle",
+    "text": "The arithmetic triangle\nWas already known in India and China"
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-arithmetic-triangle-1",
+    "href": "teaching/lecture1.html#the-arithmetic-triangle-1",
+    "title": "Quantitative Methods",
+    "section": "The arithmetic triangle",
+    "text": "The arithmetic triangle\nPascal connected the study of probability with the arithmetic triangle:\nThis triangle is linked to the binomial expansion"
+  },
+  {
+    "objectID": "teaching/lecture1.html#binomial-expansion",
+    "href": "teaching/lecture1.html#binomial-expansion",
+    "title": "Quantitative Methods",
+    "section": "Binomial expansion",
+    "text": "Binomial expansion\nThe arithmetic triangle is linked to the binomial expansion"
+  },
+  {
+    "objectID": "teaching/lecture1.html#binomial-expansion-1",
+    "href": "teaching/lecture1.html#binomial-expansion-1",
+    "title": "Quantitative Methods",
+    "section": "Binomial expansion",
+    "text": "Binomial expansion\nThe arithmetic triangle is linked to the binomial expansion\nWatch video at: https://bit.ly/3dwO969"
+  },
+  {
+    "objectID": "teaching/lecture1.html#binomial-expansion-and-probability",
+    "href": "teaching/lecture1.html#binomial-expansion-and-probability",
+    "title": "Quantitative Methods",
+    "section": "Binomial expansion and probability",
+    "text": "Binomial expansion and probability\nWe can use the binomial expansion (and the triangle) to find the probability of some simple events, like tossing a coin\n\n\n\n\n\n\nFrequency of Heads\n\n\n\n\n1 Toss\n1   1\n\n\n2 Tosses\n1   2   1\n\n\n3 Tosses\n1   3   3   1\n\n\n4 Tosses\n1   4   6   4   1\n\n\n\n\n\\[\\left(\\frac{1}{2} + \\frac{1}{2}\\right)^4 = \\frac{1}{16} + \\frac{4}{16} + \\frac{6}{16} + \\frac{4}{16} + \\frac{1}{16}\\]"
+  },
+  {
+    "objectID": "teaching/lecture1.html#binomial-expansion-and-probability-1",
+    "href": "teaching/lecture1.html#binomial-expansion-and-probability-1",
+    "title": "Quantitative Methods",
+    "section": "Binomial expansion and probability",
+    "text": "Binomial expansion and probability\nWe can plot the frequency of getting heads on a histogram"
+  },
+  {
+    "objectID": "teaching/lecture1.html#binomial-expansion-and-probability-2",
+    "href": "teaching/lecture1.html#binomial-expansion-and-probability-2",
+    "title": "Quantitative Methods",
+    "section": "Binomial expansion and probability",
+    "text": "Binomial expansion and probability\nThe more coin tosses I make, the more this histogram will resemble a curve:\nSee simulation at: https://shiny.rit.albany.edu/stat/binomial/"
+  },
+  {
+    "objectID": "teaching/lecture1.html#binomial-expansion-and-probability-3",
+    "href": "teaching/lecture1.html#binomial-expansion-and-probability-3",
+    "title": "Quantitative Methods",
+    "section": "Binomial expansion and probability",
+    "text": "Binomial expansion and probability\nAbraham De Moivre (1667-1754) published in 1738:\nThe Doctrine of Chances or a Method of Calculating the Probabilities of Events in Play\nIn the third edition (1756) he showed a way to approximate the sum of the binomial terms when n is very large."
+  },
+  {
+    "objectID": "teaching/lecture1.html#binomial-expansion-and-probability-4",
+    "href": "teaching/lecture1.html#binomial-expansion-and-probability-4",
+    "title": "Quantitative Methods",
+    "section": "Binomial expansion and probability",
+    "text": "Binomial expansion and probability\nDe Moivre (1756) showed a way to approximate the sum of the binomial terms when n is very large.\nNow you can calculate probabilities for an infinite number of tosses! And if you graph them, you get this curve:\n\n\nall tails\n\n\nall heads"
+  },
+  {
+    "objectID": "teaching/lecture1.html#a-function-for-the-binomial-expansion-large-n",
+    "href": "teaching/lecture1.html#a-function-for-the-binomial-expansion-large-n",
+    "title": "Quantitative Methods",
+    "section": "A function for the binomial expansion (large n)",
+    "text": "A function for the binomial expansion (large n)\nCarl Friedrich Gauss (1777-1855) was the first one to derive a function for this curve (1809)"
+  },
+  {
+    "objectID": "teaching/lecture1.html#astronomy-4",
+    "href": "teaching/lecture1.html#astronomy-4",
+    "title": "Quantitative Methods",
+    "section": "Astronomy",
+    "text": "Astronomy\nSo scientists are now talking about more than one observation and reporting the mean and the deviations from the mean (errors).\n\nBut do these errors have a regular distribution???"
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-law-of-errors",
+    "href": "teaching/lecture1.html#the-law-of-errors",
+    "title": "Quantitative Methods",
+    "section": "The Law of Errors",
+    "text": "The Law of Errors\nPierre Laplace (1749-1827) independently derived the formula of the normal distribution in 1812 and understood that this function was the one describing the distribution of errors!\nIt is called Gauss-Laplace distribution, or Gaussian distribution, or Normal distribution.\nOne of the first applications of the distribution outside of gaming was in the assessment of errors in astronomy."
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-normal-distribution",
+    "href": "teaching/lecture1.html#the-normal-distribution",
+    "title": "Quantitative Methods",
+    "section": "The Normal Distribution",
+    "text": "The Normal Distribution\nSummary:\n\n1654 Gombauld writes to Pascal. Pascal studies the arithmetic triangle and the probability of coin tosses\n1756 De Moivre approximates the binomial function\n1757 Simpson proposes the mean as optimal measurement, given that the errors are distributed evenly\n1809-1812 Gauss and Laplace derive the Normal distribution and the “Law of Errors”"
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-normal-distribution-1",
+    "href": "teaching/lecture1.html#the-normal-distribution-1",
+    "title": "Quantitative Methods",
+    "section": "The Normal Distribution",
+    "text": "The Normal Distribution\nThe ready acceptance of the normal distribution as a law of nature encouraged its wide application and produced consternation when exceptions were observed.\n\nAre there distributions that are asymmetrical?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-normal-distribution-2",
+    "href": "teaching/lecture1.html#the-normal-distribution-2",
+    "title": "Quantitative Methods",
+    "section": "The Normal Distribution",
+    "text": "The Normal Distribution\nIt is safe to say that no other theoretical mathematical abstraction has had such an important influence on psychology and the social sciences.\nUsing this distribution we can calculate the probabilities of a wide range of events and conduct hypothesis testing."
+  },
+  {
+    "objectID": "teaching/lecture1.html#section-5",
+    "href": "teaching/lecture1.html#section-5",
+    "title": "Quantitative Methods",
+    "section": "",
+    "text": "Chapter 1\nData"
+  },
+  {
+    "objectID": "teaching/lecture1.html#data-1",
+    "href": "teaching/lecture1.html#data-1",
+    "title": "Quantitative Methods",
+    "section": "Data",
+    "text": "Data\nData: Any collection of numbers, characters, images, or other items that provide information about something.\nData vary: Surveys and experiments produce a variety of outcomes.\nStatistical inference is making a decision or a conclusion based on the data."
+  },
+  {
+    "objectID": "teaching/lecture1.html#example-of-data-uses-facebook",
+    "href": "teaching/lecture1.html#example-of-data-uses-facebook",
+    "title": "Quantitative Methods",
+    "section": "Example of Data Uses: Facebook",
+    "text": "Example of Data Uses: Facebook\n\nFacebook collects data about you!\nPersonal information: age, gender, education, etc.\nInterests: based on what you “like”\nStatistics is used to determine which ads you see.\nIf you follow an ad, Facebook now has even more data. Your information on Facebook is a goldmine for the company."
+  },
+  {
+    "objectID": "teaching/lecture1.html#example-texting-while-driving",
+    "href": "teaching/lecture1.html#example-texting-while-driving",
+    "title": "Quantitative Methods",
+    "section": "Example: Texting While Driving",
+    "text": "Example: Texting While Driving\n\nIs texting while driving dangerous?\nTexting has grown dramatically in the last five years.\nDriving fatalities have gone down significantly in the last five years.\n\n\n\nIs texting while driving safe?\nHow might you decide?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#texting-while-driving-university-of-utah-study",
+    "href": "teaching/lecture1.html#texting-while-driving-university-of-utah-study",
+    "title": "Quantitative Methods",
+    "section": "Texting While Driving: University of Utah Study",
+    "text": "Texting While Driving: University of Utah Study\n\nMeasured reaction times of sober, drunk, and texting drivers in simulated driving emergencies\nResult: Those texting had the slowest reactions.\n\n\nIs texting while driving safe?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#organizing-data",
+    "href": "teaching/lecture1.html#organizing-data",
+    "title": "Quantitative Methods",
+    "section": "Organizing Data",
+    "text": "Organizing Data\nDifficult to decipher the data above. Presentation can make all the difference."
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-five-ws",
+    "href": "teaching/lecture1.html#the-five-ws",
+    "title": "Quantitative Methods",
+    "section": "The “Five W”s",
+    "text": "The “Five W”s\n\nWho: Describe the individuals who were surveyed.\nWhat: Determine what is being measured.\nWhen: When was the research conducted?\nWhere: Where was the research conducted?\nWhy: What was the purpose of the survey or experiment?\nHow: Describe how the survey or experiment was conducted."
+  },
+  {
+    "objectID": "teaching/lecture1.html#who-and-what",
+    "href": "teaching/lecture1.html#who-and-what",
+    "title": "Quantitative Methods",
+    "section": "Who and What",
+    "text": "Who and What\nRows correspond to individual cases, that may go by different names:\n\nRespondents: Individuals who answer the survey\nSubjects or Participants: People who are experimented on\nExperimental Units: The object of the experiment when it is not a person\nRecords: Rows in a database"
+  },
+  {
+    "objectID": "teaching/lecture1.html#sample-and-population",
+    "href": "teaching/lecture1.html#sample-and-population",
+    "title": "Quantitative Methods",
+    "section": "Sample and Population",
+    "text": "Sample and Population\n\nThe goal is to describe the population.\nThis is usually impractical or impossible.\nA sample is used to make inferences about the population.\nThe sample should be representative of the population."
+  },
+  {
+    "objectID": "teaching/lecture1.html#categorical-variables",
+    "href": "teaching/lecture1.html#categorical-variables",
+    "title": "Quantitative Methods",
+    "section": "Categorical Variables",
+    "text": "Categorical Variables\n\nCategorical Variable: A variable that tells us what group or category an individual belongs to\nSynonyms: nominal and qualitative\nExamples: Favorite color, country of birth, area code\nDrawback: Challenging to analyze with computation"
+  },
+  {
+    "objectID": "teaching/lecture1.html#quantitative-variables",
+    "href": "teaching/lecture1.html#quantitative-variables",
+    "title": "Quantitative Methods",
+    "section": "Quantitative Variables",
+    "text": "Quantitative Variables\n\nQuantitative Variable: Contains measured numerical values with measurement units\nTypically records the amount or degree of something\nUnit Examples: ounces, dollars, degrees Fahrenheit"
+  },
+  {
+    "objectID": "teaching/lecture1.html#categorical-or-quantitative",
+    "href": "teaching/lecture1.html#categorical-or-quantitative",
+    "title": "Quantitative Methods",
+    "section": "Categorical or Quantitative?",
+    "text": "Categorical or Quantitative?\nAmazon knows your age and will use it to present an age-appropriate image customized for you.\n\nIs Age categorical or quantitative?\n\nPerceived as Child, Teen, Young Adult, Middle Aged, Senior, age is categorical.\nCan also be perceived as quantitative if not categorized into a type."
+  },
+  {
+    "objectID": "teaching/lecture1.html#identifiers",
+    "href": "teaching/lecture1.html#identifiers",
+    "title": "Quantitative Methods",
+    "section": "Identifiers",
+    "text": "Identifiers\nIdentifier Variable: A variable that is used to uniquely identify the individual. It does not describe the individual.\n\nLogin ID\nCustomer Number\nTransaction Number\nSocial Security Number"
+  },
+  {
+    "objectID": "teaching/lecture1.html#ordinal-variables",
+    "href": "teaching/lecture1.html#ordinal-variables",
+    "title": "Quantitative Methods",
+    "section": "Ordinal Variables",
+    "text": "Ordinal Variables\nOrdinal Variable: A variable that reports order without natural units\n\nFour-point Likert Scale: Strongly Disagree, Disagree, Agree, Strongly Agree\nOlympic Rank: Gold, Silver, Bronze\n\n\nCan be treated as quantitative by using the rank number:\n1 = Strongly Disagree, 2 = Disagree, 3 = Agree, 4 = Strongly Agree"
+  },
+  {
+    "objectID": "teaching/lecture1.html#section-6",
+    "href": "teaching/lecture1.html#section-6",
+    "title": "Quantitative Methods",
+    "section": "",
+    "text": "Chapter 2\nDisplaying and Describing Categorical Data"
+  },
+  {
+    "objectID": "teaching/lecture1.html#displaying-and-describing-categorical-data-1",
+    "href": "teaching/lecture1.html#displaying-and-describing-categorical-data-1",
+    "title": "Quantitative Methods",
+    "section": "Displaying and Describing Categorical Data",
+    "text": "Displaying and Describing Categorical Data\n\nFrequency tables\nBar Charts\nPie Charts\nChoose the chart that best tells the story of your data.\nCharts often work better when the categories do not overlap."
+  },
+  {
+    "objectID": "teaching/lecture1.html#frequency-tables",
+    "href": "teaching/lecture1.html#frequency-tables",
+    "title": "Quantitative Methods",
+    "section": "Frequency Tables",
+    "text": "Frequency Tables\n\n\nA frequency table is a table whose first column displays each distinct outcome and second column displays that outcome’s frequency.\nIf there are many distinct outcomes, then combining them into a few categories is recommended."
+  },
+  {
+    "objectID": "teaching/lecture1.html#relative-frequency-tables",
+    "href": "teaching/lecture1.html#relative-frequency-tables",
+    "title": "Quantitative Methods",
+    "section": "Relative Frequency Tables",
+    "text": "Relative Frequency Tables\n\n\nA relative frequency table is a table whose first column displays each distinct outcome and second column displays that outcome’s relative frequency.\nThe relative frequency table is similar to the frequency table, but it displays relative frequencies rather than frequencies."
+  },
+  {
+    "objectID": "teaching/lecture1.html#bar-charts",
+    "href": "teaching/lecture1.html#bar-charts",
+    "title": "Quantitative Methods",
+    "section": "Bar Charts",
+    "text": "Bar Charts\n\n\nA bar chart displays the frequency or relative frequency of each category.\n\nAll bars must have the same width.\nGood for general audience"
+  },
+  {
+    "objectID": "teaching/lecture1.html#a-wrong-example",
+    "href": "teaching/lecture1.html#a-wrong-example",
+    "title": "Quantitative Methods",
+    "section": "A (wrong) example",
+    "text": "A (wrong) example\n\n\nWere most members of the Titanic crew members?\nThree times as many crew members as second-class passengers.\nThe eyes are tricked by the area being nine times as large for the crew."
+  },
+  {
+    "objectID": "teaching/lecture1.html#the-area-principle",
+    "href": "teaching/lecture1.html#the-area-principle",
+    "title": "Quantitative Methods",
+    "section": "The Area Principle",
+    "text": "The Area Principle\n\n\nThe Area Principle: The area occupied by a part of the graph should correspond to the magnitude of the value it represents.\n\nBars should have equal widths in a bar chart.\nBe cautious when using two-dimensional pictures to exhibit one-dimensional data."
+  },
+  {
+    "objectID": "teaching/lecture1.html#pie-charts",
+    "href": "teaching/lecture1.html#pie-charts",
+    "title": "Quantitative Methods",
+    "section": "Pie Charts",
+    "text": "Pie Charts\n\n\nA pie chart presents each category as a slice of a circle so that each slice has a size that is proportional to the whole in each category.\nPie charts help to display the fraction of the whole that each category represents.\nBetter not to use a pie chart in science."
+  },
+  {
+    "objectID": "teaching/lecture1.html#contingency-tables",
+    "href": "teaching/lecture1.html#contingency-tables",
+    "title": "Quantitative Methods",
+    "section": "Contingency Tables",
+    "text": "Contingency Tables\n\n\nA contingency table is a table that displays two categorical variables and their relationships.\n\nThere were 528 third-class ticket holders who died.\nThe bottom row represents the totals for class and is called the marginal distribution.\nThe right column represents the totals for survival and is also a marginal distribution."
+  },
+  {
+    "objectID": "teaching/lecture1.html#table-of-percents",
+    "href": "teaching/lecture1.html#table-of-percents",
+    "title": "Quantitative Methods",
+    "section": "Table of Percents",
+    "text": "Table of Percents\n\nA table of percents can be misleading.\nLooking at “Alive”, was it better to have a second- or third-class ticket?\n\n8.1% were third-class survivors, 5.4% were second-class survivors.\nWhat is wrong with just comparing these percentages?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#conditional-distributions",
+    "href": "teaching/lecture1.html#conditional-distributions",
+    "title": "Quantitative Methods",
+    "section": "Conditional Distributions",
+    "text": "Conditional Distributions\n\n\nA conditional distribution provides the percent of one variable satisfying the conditions of another.\n25.2% of all third-class ticket holders survived.\nWas it better to have a second- or third-class ticket?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#conditional-distribution-rows-or-columns",
+    "href": "teaching/lecture1.html#conditional-distribution-rows-or-columns",
+    "title": "Quantitative Methods",
+    "section": "Conditional Distribution: Rows or Columns",
+    "text": "Conditional Distribution: Rows or Columns\n\n\nThe “Condition” can either be based on rows or columns.\nThis table shows that the highest percent of survivors were crew members.\nThe highest percent of the dead were also crew members."
+  },
+  {
+    "objectID": "teaching/lecture1.html#conditional-distributions-as-pie-charts",
+    "href": "teaching/lecture1.html#conditional-distributions-as-pie-charts",
+    "title": "Quantitative Methods",
+    "section": "Conditional Distributions as Pie Charts",
+    "text": "Conditional Distributions as Pie Charts\n\n\nPie charts can give a visual representation of the conditional distributions.\nCompare how the first-class ticket holders were represented amongst the survivors vs. the dead."
+  },
+  {
+    "objectID": "teaching/lecture1.html#bar-charts-1",
+    "href": "teaching/lecture1.html#bar-charts-1",
+    "title": "Quantitative Methods",
+    "section": "Bar Charts",
+    "text": "Bar Charts\n\n\nBar charts can also effectively tell the story for conditional distributions.\nWhich is best: Table, Pie chart, or Bar Graph?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#independence",
+    "href": "teaching/lecture1.html#independence",
+    "title": "Quantitative Methods",
+    "section": "Independence",
+    "text": "Independence\nIndependence: The distribution of one variable is the same for all categories of another. There is no association between the two.\nFor dependent variables, there is an association between the two variables."
+  },
+  {
+    "objectID": "teaching/lecture1.html#example",
+    "href": "teaching/lecture1.html#example",
+    "title": "Quantitative Methods",
+    "section": "Example",
+    "text": "Example\n\n\nIs there an association between gender and interest in Super Bowl TV Coverage?\n\nLarge difference for men between watching the game and commercials\nSmaller difference for women\nThere is an association between gender and interest."
+  },
+  {
+    "objectID": "teaching/lecture1.html#simpsons-paradox",
+    "href": "teaching/lecture1.html#simpsons-paradox",
+    "title": "Quantitative Methods",
+    "section": "Simpson’s Paradox",
+    "text": "Simpson’s Paradox\nDefinition: An association that holds for all of several groups can reverse direction when the data are combined to form a single group. This reversal is called Simpson’s paradox.\nHistory: Simpson’s paradox is named after Edward Simpson: he described this paradox in the 1951 paper “The Interpretation of Interaction in Contingency Tables.”\nPearson and Yule each observed a similar paradox half a century earlier than Simpson, so Simpson’s paradox is sometimes also referred to as the Simpson-Yule effect."
+  },
+  {
+    "objectID": "teaching/lecture1.html#simpsons-paradox-example",
+    "href": "teaching/lecture1.html#simpsons-paradox-example",
+    "title": "Quantitative Methods",
+    "section": "Simpson’s Paradox: Example",
+    "text": "Simpson’s Paradox: Example\nWe want to test two drugs.\nWe give each drug to a group of people and then count the number of successes (improvements) and failures (no change) for each group."
+  },
+  {
+    "objectID": "teaching/lecture1.html#simpsons-paradox-example-1",
+    "href": "teaching/lecture1.html#simpsons-paradox-example-1",
+    "title": "Quantitative Methods",
+    "section": "Simpson’s Paradox: Example",
+    "text": "Simpson’s Paradox: Example\nLet’s look at the same result split by gender.\nMale:\nFemale:"
+  },
+  {
+    "objectID": "teaching/lecture1.html#what-are-the-limits-of-statistics",
+    "href": "teaching/lecture1.html#what-are-the-limits-of-statistics",
+    "title": "Quantitative Methods",
+    "section": "What are the limits of Statistics?",
+    "text": "What are the limits of Statistics?\nCan data answer every possible question?"
   }
 ]

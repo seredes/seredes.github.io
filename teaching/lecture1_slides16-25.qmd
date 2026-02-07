@@ -1,0 +1,152 @@
+---
+title: "Quantitative Methods"
+subtitle: "Lecture 1 -- Slides 16-25"
+author: "Serena DeStefani"
+date: "7/6/2020"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    transition: slide
+    width: 1050
+    height: 700
+    css: slides-style.css
+---
+
+## What is Statistics?
+
+:::: {.columns}
+
+::: {.column width="60%"}
+The practice of collecting and collating numerical facts
+
+- Goes back to beginning of human civilization.
+- ... in 1749, word *Statistik* introduced by Gottfried Achenwall.
+- From the Latin *statisticum* ("of the state").
+- It designated the collection of data about the state.
+:::
+
+::: {.column width="40%"}
+![](lecture1_images/slide16_img1.png){fig-align="center" width="55%"}
+
+![](lecture1_images/slide16_img2.jpg){fig-align="center" width="70%"}
+:::
+
+::::
+
+## The Definition of Statistics
+
+:::: {.columns}
+
+::: {.column width="55%"}
+2) The process of reasoning about the data collected
+
+**Inferential statistics:**
+
+- Parameter estimation
+- Hypothesis testing
+:::
+
+::: {.column width="45%"}
+![](lecture1_images/slide17_img1.jpg){fig-align="center" width="85%"}
+:::
+
+::::
+
+## Why do we need statistics?
+
+- What is biology about?
+- What is economics about?
+- What is sociology about?
+- ...What is statistics about?
+
+. . .
+
+**Statistics is about variation.**
+
+Statistics helps us make sense of the data and how the data vary.
+
+Statistics is a collection of conceptual and mathematical tools that allow us to study such variation.
+
+## Why is Statistics important for Psychology?
+
+The use of Statistics qualifies Psychology as a science...
+
+. . .
+
+Using statistics we can determine whether a psychological hypothesis is true for a wider population, or whether a treatment works or not.
+
+. . .
+
+Statistical methods provide a unifying force within Psychology.
+
+## What's the origin of Statistics?
+
+Starting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:
+
+| Field | Contribution |
+|-------|-------------|
+| Demography | Statistical summaries |
+| Astronomy | Theory of errors, normal distribution |
+| Gambling | Probability theory |
+| Agriculture | Experimental design |
+
+## What's the origin of Statistics?
+
+Let's take a step back...
+
+. . .
+
+In 1687 Newton published *Principia Mathematica*
+
+- Laws of motion, gravitation
+- Now it's possible to predict mathematically the movement of objects, including stars!
+
+. . .
+
+But what about other complex phenomena?
+
+## What's the origin of Statistics?
+
+At some point it was found that many events follow what we call a **normal distribution**.
+
+How did they find out?
+
+![](lecture1_images/slide22_img1.png){fig-align="center" width="55%"}
+
+## What's the origin of Statistics? {.smaller}
+
+Starting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:
+
+- **Demography** &rarr; statistical summaries
+- **Astronomy** &rarr; theory of errors &rarr; normal distribution
+- **Gambling** &rarr; probability theory
+- **Agriculture** &rarr; experimental design
+
+## Demography
+
+John Graunt, a London haberdasher, born in 1620, tried to predict and explain social phenomena from tables he compiled from the "Bills of Mortality".
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](lecture1_images/slide24_img2.png){fig-align="center" width="70%"}
+:::
+
+::: {.column width="50%"}
+![](lecture1_images/slide24_img1.jpg){fig-align="center" width="60%"}
+:::
+
+::::
+
+## Astronomy
+
+For science to progress, scientists propose hypotheses to test.
+
+. . .
+
+In order to do that, they need to collect data...
+
+. . .
+
+In order to collect data, scientists must make experimental measurements.
