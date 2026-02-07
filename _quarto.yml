@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Serena DeStefani"
+  favicon: favicon.ico
   navbar:
     left:
       - text: Research
