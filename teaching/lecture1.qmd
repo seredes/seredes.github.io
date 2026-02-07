@@ -3,6 +3,7 @@ title: "Lecture 1: Introduction"
 subtitle: "Quantitative Methods in Psychology"
 date: "7/6/2020"
 toc: false
+body-classes: lecture-detail
 ---
 
 This lecture introduces the course and covers the definition of statistics, a brief history of the field, data and variables, and categorical data displays.

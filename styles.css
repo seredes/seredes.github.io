@@ -1,6 +1,10 @@
 /* css styles */
 
 /* Slide detail page */
+.lecture-detail h1.title {
+  font-size: 2.4rem;
+}
+
 .slide-link-bar {
   text-align: right;
   margin-bottom: 0.5rem;
@@ -8,8 +12,8 @@
 
 .slide-container {
   position: relative;
-  width: 100%;
-  padding-bottom: 66.67%; /* 3:2 aspect ratio (matches 1050x700 slides) */
+  width: 85%;
+  padding-bottom: 56.67%; /* 3:2 ratio scaled down ~15% */
   border: 1px solid #dee2e6;
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
