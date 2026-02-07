@@ -7,11 +7,46 @@
     "text": "Personal interests, hobbies, and adventures outside of academia"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Research",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "STEAM Exchange 2023"
+    "text": "Download CV (PDF) \n\n\n&lt;p&gt;\nYour browser does not support PDFs. &lt;a href=\"DeStefani_CV.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Serena DeStefani",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n\n  \n  \nI am currently a postdoctoral fellow in the Department of Psychiatry at The Ohio State University, working with Ivy Tso. I joined the lab in the Fall of 2023 after earning a Ph.D. in Cognitive Psychology from Rutgers University. I am interested in exploring how cognitive constructs like cognitive maps and probabilistic thinking underpin social impairments in psychopathology, particularly in psychosis and autism. I approach these questions using behavioral tasks (sometimes set in virtual reality), eye tracking studies, and computational modeling. By combining phenomenological and cognitive science perspectives, I aim to bridge the gap between experiential and empirical approaches to understanding human psychology. I am also passionate about statistics (and its philosophical underpinnings)."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow."
+  },
+  {
+    "objectID": "teaching.html#quantitative-methods-in-psychology",
+    "href": "teaching.html#quantitative-methods-in-psychology",
+    "title": "Teaching",
+    "section": "Quantitative Methods in Psychology",
+    "text": "Quantitative Methods in Psychology\nAn intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills."
+  },
+  {
+    "objectID": "teaching.html#cognition-lab",
+    "href": "teaching.html#cognition-lab",
+    "title": "Teaching",
+    "section": "Cognition Lab",
+    "text": "Cognition Lab\nThis course bridges theoretical knowledge and practical research skills through active experimentation. Each week, students explore a new experimental paradigm—examining its theoretical foundations and methodological underpinnings—before building it from the ground up using PsychoPy, collecting their own data, and drafting corresponding report sections. The course culminates in an original research project where students design their own study, collect data from peers, conduct analyses, and produce a complete research report. The course develops both technical proficiency and the research mindset essential for conducting independent psychological investigations.\nStudents build cognitive experiments from the ground up using PsychoPy, gaining deep understanding of research methodology through direct experience."
+  },
+  {
+    "objectID": "teaching.html#expository-writing",
+    "href": "teaching.html#expository-writing",
+    "title": "Teaching",
+    "section": "Expository Writing",
+    "text": "Expository Writing\nThis freshman seminar approaches writing as a tool for intellectual discovery and academic engagement. Students learn to identify unexpected connections between texts, construct original arguments, and articulate complex ideas with clarity and precision. The course emphasizes revision, peer collaboration, and intellectual risk-taking within a supportive community. Students gain confidence in their ability to contribute meaningfully to academic conversations across disciplines."
   },
   {
     "objectID": "leadership.html",
@@ -42,45 +77,52 @@
     "text": "Columbia University GS Award Committee Co-Chair\n[Content about Columbia University GS Award Committee Co-Chair role will go here]\n\n\n\nSTEAM Exchange 2023"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Research",
     "section": "",
-    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. My teaching experience spans large lectures, small labs, statistics courses, and writing workshops across in-person, hybrid, and online formats. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow."
+    "text": "STEAM Exchange 2023"
   },
   {
-    "objectID": "teaching.html#quantitative-methods-in-psychology",
-    "href": "teaching.html#quantitative-methods-in-psychology",
-    "title": "Teaching",
-    "section": "Quantitative Methods in Psychology",
-    "text": "Quantitative Methods in Psychology\nAn intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications, making abstract concepts concrete through real-world examples. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and statistical confidence."
-  },
-  {
-    "objectID": "teaching.html#cognition-lab",
-    "href": "teaching.html#cognition-lab",
-    "title": "Teaching",
-    "section": "Cognition Lab",
-    "text": "Cognition Lab\nThis course bridges theoretical knowledge and practical research skills through active experimentation. Students build cognitive experiments from the ground up using PsychoPy, gaining deep understanding of research methodology through direct experience. Each week, students explore a new experimental paradigm—examining its theoretical foundations and methodological underpinnings before implementing it in PsychoPy, collecting their own data, and drafting corresponding report sections. The course culminates in an original research project where students design their own study, collect data from peers, conduct analyses, and produce a complete research report that demonstrates their emergence as independent researchers. The course develops both technical proficiency and the research mindset essential for conducting independent psychological investigations."
-  },
-  {
-    "objectID": "teaching.html#expository-writing",
-    "href": "teaching.html#expository-writing",
-    "title": "Teaching",
-    "section": "Expository Writing",
-    "text": "Expository Writing\nThis freshman seminar approaches writing as a tool for intellectual discovery and academic engagement. Students learn to identify unexpected connections between texts, construct original arguments, and articulate complex ideas with clarity and precision. The course emphasizes revision, peer collaboration, and intellectual risk-taking within a supportive community. Students gain confidence in their ability to contribute meaningfully to academic conversations across disciplines."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Serena DeStefani",
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "CLAUDE.md",
     "section": "",
-    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n\n  \n  \nI am currently a postdoctoral fellow in the Department of Psychiatry at The Ohio State University, working with Ivy Tso. I joined the lab in the Fall of 2023 after earning a Ph.D. in Cognitive Psychology from Rutgers University. I am interested in exploring how cognitive constructs like cognitive maps and probabilistic thinking underpin social impairments in psychopathology, particularly in psychosis and autism. I approach these questions using behavioral tasks (sometimes set in virtual reality), eye tracking studies, and computational modeling. By combining phenomenological and cognitive science perspectives, I aim to bridge the gap between experiential and empirical approaches to understanding human psychology. I am also passionate about statistics (and its philosophical underpinnings)."
+    "text": "This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n\nAcademic portfolio website for Serena DeStefani, built with Quarto and deployed to GitHub Pages at seredes.github.io. The site uses the cosmo Bootstrap theme with the trestles about-page template.\n\n\n\n# Preview locally with hot-reload\nquarto preview\n\n# Render the full site (output goes to docs/)\nquarto render\n\n# Render a single page\nquarto render about.qmd\nThe output directory is docs/, which is served directly by GitHub Pages. The .nojekyll file in docs/ prevents GitHub from running Jekyll processing.\n\n\n\n\n_quarto.yml – Central config: defines site title, navbar links, theme (cosmo), output directory (docs/), and global format options (TOC enabled, custom CSS).\n.qmd files – Each file is one page. Uses Quarto Markdown with YAML front matter. Pages: index.qmd (homepage/about), about.qmd (research), teaching.qmd, leadership.qmd, adventures.qmd, cv.qmd.\nindex.qmd – Uses Quarto’s about template (trestles) with #hero-heading div for profile layout and icon links.\ncv.qmd – Embeds DeStefani_CV.pdf via an &lt;iframe&gt; with a download button. When updating the CV, replace the PDF file at the project root.\nstyles.css – Custom CSS overrides (currently minimal).\n_extensions/quarto-ext/fontawesome/ – Font Awesome extension for icon shortcodes.\ndocs/ – Generated output directory. Do not edit files here directly; they are overwritten by quarto render.\n.quarto/ – Build cache (gitignored). Safe to delete for a clean rebuild.\n\n\n\n\nPush to the main branch on GitHub. GitHub Pages is configured to serve from the docs/ directory. After making changes, run quarto render before committing so that docs/ contains the latest output.\n\n\n\n\nThe visual editor mode is enabled (editor: visual in _quarto.yml), but .qmd source files can be edited as plain markdown.\nNavigation is defined in _quarto.yml under website.navbar.left. To add a new page, create a .qmd file and add a corresponding navbar entry.\nImages go in the images/ directory.\nThe project includes an .Rproj file for RStudio integration; R code chunks can be used in .qmd files if needed."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "CLAUDE.html#project-overview",
+    "href": "CLAUDE.html#project-overview",
+    "title": "CLAUDE.md",
     "section": "",
-    "text": "Download CV (PDF) \n\n\n&lt;p&gt;\nYour browser does not support PDFs. &lt;a href=\"DeStefani_CV.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
+    "text": "Academic portfolio website for Serena DeStefani, built with Quarto and deployed to GitHub Pages at seredes.github.io. The site uses the cosmo Bootstrap theme with the trestles about-page template."
+  },
+  {
+    "objectID": "CLAUDE.html#build-and-preview-commands",
+    "href": "CLAUDE.html#build-and-preview-commands",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "# Preview locally with hot-reload\nquarto preview\n\n# Render the full site (output goes to docs/)\nquarto render\n\n# Render a single page\nquarto render about.qmd\nThe output directory is docs/, which is served directly by GitHub Pages. The .nojekyll file in docs/ prevents GitHub from running Jekyll processing."
+  },
+  {
+    "objectID": "CLAUDE.html#architecture",
+    "href": "CLAUDE.html#architecture",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "_quarto.yml – Central config: defines site title, navbar links, theme (cosmo), output directory (docs/), and global format options (TOC enabled, custom CSS).\n.qmd files – Each file is one page. Uses Quarto Markdown with YAML front matter. Pages: index.qmd (homepage/about), about.qmd (research), teaching.qmd, leadership.qmd, adventures.qmd, cv.qmd.\nindex.qmd – Uses Quarto’s about template (trestles) with #hero-heading div for profile layout and icon links.\ncv.qmd – Embeds DeStefani_CV.pdf via an &lt;iframe&gt; with a download button. When updating the CV, replace the PDF file at the project root.\nstyles.css – Custom CSS overrides (currently minimal).\n_extensions/quarto-ext/fontawesome/ – Font Awesome extension for icon shortcodes.\ndocs/ – Generated output directory. Do not edit files here directly; they are overwritten by quarto render.\n.quarto/ – Build cache (gitignored). Safe to delete for a clean rebuild."
+  },
+  {
+    "objectID": "CLAUDE.html#deployment",
+    "href": "CLAUDE.html#deployment",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "Push to the main branch on GitHub. GitHub Pages is configured to serve from the docs/ directory. After making changes, run quarto render before committing so that docs/ contains the latest output."
+  },
+  {
+    "objectID": "CLAUDE.html#key-conventions",
+    "href": "CLAUDE.html#key-conventions",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "The visual editor mode is enabled (editor: visual in _quarto.yml), but .qmd source files can be edited as plain markdown.\nNavigation is defined in _quarto.yml under website.navbar.left. To add a new page, create a .qmd file and add a corresponding navbar entry.\nImages go in the images/ directory.\nThe project includes an .Rproj file for RStudio integration; R code chunks can be used in .qmd files if needed."
   }
 ]

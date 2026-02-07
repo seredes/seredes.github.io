@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "seredes.github.io"
+  title: "Serena DeStefani"
   navbar:
     left:
       - text: Research

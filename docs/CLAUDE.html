@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – Serena DeStefani</title>
+<title>claude – Serena DeStefani</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -93,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -123,39 +158,76 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#claude.md" id="toc-claude.md" class="nav-link active" data-scroll-target="#claude.md">CLAUDE.md</a>
+  <ul class="collapse">
+  <li><a href="#project-overview" id="toc-project-overview" class="nav-link" data-scroll-target="#project-overview">Project Overview</a></li>
+  <li><a href="#build-and-preview-commands" id="toc-build-and-preview-commands" class="nav-link" data-scroll-target="#build-and-preview-commands">Build and Preview Commands</a></li>
+  <li><a href="#architecture" id="toc-architecture" class="nav-link" data-scroll-target="#architecture">Architecture</a></li>
+  <li><a href="#deployment" id="toc-deployment" class="nav-link" data-scroll-target="#deployment">Deployment</a></li>
+  <li><a href="#key-conventions" id="toc-key-conventions" class="nav-link" data-scroll-target="#key-conventions">Key Conventions</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Research</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
+<section id="claude.md" class="level1">
+<h1>CLAUDE.md</h1>
+<p>This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.</p>
+<section id="project-overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>Academic portfolio website for Serena DeStefani, built with <strong>Quarto</strong> and deployed to <strong>GitHub Pages</strong> at <code>seredes.github.io</code>. The site uses the <code>cosmo</code> Bootstrap theme with the <code>trestles</code> about-page template.</p>
+</section>
+<section id="build-and-preview-commands" class="level2">
+<h2 class="anchored" data-anchor-id="build-and-preview-commands">Build and Preview Commands</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Preview locally with hot-reload</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Render the full site (output goes to docs/)</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Render a single page</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render about.qmd</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>The output directory is <code>docs/</code>, which is served directly by GitHub Pages. The <code>.nojekyll</code> file in <code>docs/</code> prevents GitHub from running Jekyll processing.</p>
+</section>
+<section id="architecture" class="level2">
+<h2 class="anchored" data-anchor-id="architecture">Architecture</h2>
+<ul>
+<li><strong><code>_quarto.yml</code></strong> – Central config: defines site title, navbar links, theme (<code>cosmo</code>), output directory (<code>docs/</code>), and global format options (TOC enabled, custom CSS).</li>
+<li><strong><code>.qmd</code> files</strong> – Each file is one page. Uses Quarto Markdown with YAML front matter. Pages: <code>index.qmd</code> (homepage/about), <code>about.qmd</code> (research), <code>teaching.qmd</code>, <code>leadership.qmd</code>, <code>adventures.qmd</code>, <code>cv.qmd</code>.</li>
+<li><strong><code>index.qmd</code></strong> – Uses Quarto’s <code>about</code> template (<code>trestles</code>) with <code>#hero-heading</code> div for profile layout and icon links.</li>
+<li><strong><code>cv.qmd</code></strong> – Embeds <code>DeStefani_CV.pdf</code> via an <code>&lt;iframe&gt;</code> with a download button. When updating the CV, replace the PDF file at the project root.</li>
+<li><strong><code>styles.css</code></strong> – Custom CSS overrides (currently minimal).</li>
+<li><strong><code>_extensions/quarto-ext/fontawesome/</code></strong> – Font Awesome extension for icon shortcodes.</li>
+<li><strong><code>docs/</code></strong> – Generated output directory. Do not edit files here directly; they are overwritten by <code>quarto render</code>.</li>
+<li><strong><code>.quarto/</code></strong> – Build cache (gitignored). Safe to delete for a clean rebuild.</li>
+</ul>
+</section>
+<section id="deployment" class="level2">
+<h2 class="anchored" data-anchor-id="deployment">Deployment</h2>
+<p>Push to the <code>main</code> branch on GitHub. GitHub Pages is configured to serve from the <code>docs/</code> directory. After making changes, run <code>quarto render</code> before committing so that <code>docs/</code> contains the latest output.</p>
+</section>
+<section id="key-conventions" class="level2">
+<h2 class="anchored" data-anchor-id="key-conventions">Key Conventions</h2>
+<ul>
+<li>The visual editor mode is enabled (<code>editor: visual</code> in <code>_quarto.yml</code>), but <code>.qmd</code> source files can be edited as plain markdown.</li>
+<li>Navigation is defined in <code>_quarto.yml</code> under <code>website.navbar.left</code>. To add a new page, create a <code>.qmd</code> file and add a corresponding navbar entry.</li>
+<li>Images go in the <code>images/</code> directory.</li>
+<li>The project includes an <code>.Rproj</code> file for RStudio integration; R code chunks can be used in <code>.qmd</code> files if needed.</li>
+</ul>
 
 
-</header>
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/steam_exchange_photo5.jpg" class="img-fluid figure-img"></p>
-<figcaption>STEAM Exchange 2023</figcaption>
-</figure>
-</div>
-
-
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
