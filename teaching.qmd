@@ -8,6 +8,10 @@ I approach teaching through three core principles: respecting students as indivi
 
 An intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills.
 
+### Lectures
+
+- [Lecture 1: Introduction](teaching/lecture1.html)
+
 ## Cognition Lab
 
 This course bridges theoretical knowledge and practical research skills through active experimentation.  Each week, students explore a new experimental paradigm—examining its theoretical foundations and methodological underpinnings—before building it from the ground up using PsychoPy, collecting their own data, and drafting corresponding report sections. The course culminates in an original research project where students design their own study, collect data from peers, conduct analyses, and produce a complete research report. The course develops both technical proficiency and the research mindset essential for conducting independent psychological investigations.

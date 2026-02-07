@@ -32,7 +32,7 @@
     "href": "teaching.html#quantitative-methods-in-psychology",
     "title": "Teaching",
     "section": "Quantitative Methods in Psychology",
-    "text": "Quantitative Methods in Psychology\nAn intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills."
+    "text": "Quantitative Methods in Psychology\nAn intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills.\n\nLectures\n\nLecture 1: Introduction"
   },
   {
     "objectID": "teaching.html#cognition-lab",
@@ -431,28 +431,28 @@
     "href": "teaching/lecture1.html#binomial-expansion",
     "title": "Quantitative Methods",
     "section": "Binomial expansion",
-    "text": "Binomial expansion\nThe arithmetic triangle is linked to the binomial expansion"
+    "text": "Binomial expansion\nThe arithmetic triangle is linked to the binomial expansion\n\\[\\small\\begin{align}\n(a+b)^0 &= 1 \\\\\n(a+b)^1 &= a + b \\\\\n(a+b)^2 &= a^2 + 2ab + b^2 \\\\\n(a+b)^3 &= a^3 + 3a^2b + 3ab^2 + b^3 \\\\\n(a+b)^4 &= a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + b^4 \\\\\n(a+b)^5 &= a^5 + 5a^4b + 10a^3b^2 + 10a^2b^3 + 5ab^4 + b^5 \\\\\n(a+b)^6 &= a^6 + 6a^5b + 15a^4b^2 + 20a^3b^3 + 15a^2b^4 + 6ab^5 + b^6\n\\end{align}\\]"
   },
   {
     "objectID": "teaching/lecture1.html#binomial-expansion-1",
     "href": "teaching/lecture1.html#binomial-expansion-1",
     "title": "Quantitative Methods",
     "section": "Binomial expansion",
-    "text": "Binomial expansion\nThe arithmetic triangle is linked to the binomial expansion\nWatch video at: https://bit.ly/3dwO969"
+    "text": "Binomial expansion\nThe arithmetic triangle is linked to the binomial expansion\nWatch video at: https://bit.ly/3dwO969\n\\[\\small\\begin{align}\n(x+y)^0 &= \\mathbf{1} \\\\\n(x+y)^1 &= \\mathbf{1}x + \\mathbf{1}y \\\\\n(x+y)^2 &= \\mathbf{1}x^2 + \\mathbf{2}xy + \\mathbf{1}y^2 \\\\\n(x+y)^3 &= \\mathbf{1}x^3 + \\mathbf{3}x^2y + \\mathbf{3}xy^2 + \\mathbf{1}y^3 \\\\\n(x+y)^4 &= \\mathbf{1}x^4 + \\mathbf{4}x^3y + \\mathbf{6}x^2y^2 + \\mathbf{4}xy^3 + \\mathbf{1}y^4 \\\\\n(x+y)^5 &= \\mathbf{1}x^5 + \\mathbf{5}x^4y + \\mathbf{10}x^3y^2 + \\mathbf{10}x^2y^3 + \\mathbf{5}xy^4 + \\mathbf{1}y^5\n\\end{align}\\]"
   },
   {
     "objectID": "teaching/lecture1.html#binomial-expansion-and-probability",
     "href": "teaching/lecture1.html#binomial-expansion-and-probability",
     "title": "Quantitative Methods",
     "section": "Binomial expansion and probability",
-    "text": "Binomial expansion and probability\nWe can use the binomial expansion (and the triangle) to find the probability of some simple events, like tossing a coin\n\n\n\n\n\n\nFrequency of Heads\n\n\n\n\n1 Toss\n1   1\n\n\n2 Tosses\n1   2   1\n\n\n3 Tosses\n1   3   3   1\n\n\n4 Tosses\n1   4   6   4   1\n\n\n\n\n\\[\\left(\\frac{1}{2} + \\frac{1}{2}\\right)^4 = \\frac{1}{16} + \\frac{4}{16} + \\frac{6}{16} + \\frac{4}{16} + \\frac{1}{16}\\]"
+    "text": "Binomial expansion and probability\nWe can use the binomial expansion (and the triangle) to find the probability of some simple events, like tossing a coin\n\n\n\n\n\nTosses\nFrequency of Heads\n\n\n\n\n1\n1   1\n\n\n2\n1   2   1\n\n\n3\n1   3   3   1\n\n\n4\n1   4   6   4   1\n\n\n\n\n\\[\\small\\left(\\frac{1}{2} + \\frac{1}{2}\\right)^4 = \\frac{1}{16} + \\frac{4}{16} + \\frac{6}{16} + \\frac{4}{16} + \\frac{1}{16}\\]"
   },
   {
     "objectID": "teaching/lecture1.html#binomial-expansion-and-probability-1",
     "href": "teaching/lecture1.html#binomial-expansion-and-probability-1",
     "title": "Quantitative Methods",
     "section": "Binomial expansion and probability",
-    "text": "Binomial expansion and probability\nWe can plot the frequency of getting heads on a histogram"
+    "text": "Binomial expansion and probability\nWe can plot the frequency of getting heads on a histogram\n\\[\\left(\\frac{1}{2} + \\frac{1}{2}\\right)^4 = \\frac{1}{16} + \\frac{4}{16} + \\frac{6}{16} + \\frac{4}{16} + \\frac{1}{16}\\]"
   },
   {
     "objectID": "teaching/lecture1.html#binomial-expansion-and-probability-2",
@@ -522,7 +522,7 @@
     "href": "teaching/lecture1.html#section-5",
     "title": "Quantitative Methods",
     "section": "",
-    "text": "Chapter 1\nData"
+    "text": "Chapter 2\nDisplaying and Describing Categorical Data"
   },
   {
     "objectID": "teaching/lecture1.html#data-1",
@@ -754,5 +754,12 @@
     "title": "Quantitative Methods",
     "section": "What are the limits of Statistics?",
     "text": "What are the limits of Statistics?\nCan data answer every possible question?"
+  },
+  {
+    "objectID": "teaching/lecture1.html#section-4",
+    "href": "teaching/lecture1.html#section-4",
+    "title": "Quantitative Methods",
+    "section": "",
+    "text": "Chapter 1\nData"
   }
 ]
