@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+toc-location: left
 ---
 
 I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow.
