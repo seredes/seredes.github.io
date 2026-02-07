@@ -6,9 +6,16 @@ website:
   title: "seredes.github.io"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Research
+        href: about.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Leadership
+        href: leadership.qmd
+      - text: Adventures
+        href: adventures.qmd
+      - text: CV
+        href: cv.qmd
 
 format:
   html:

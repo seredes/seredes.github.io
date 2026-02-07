@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+![STEAM Exchange 2023](images/steam_exchange_photo5.jpg)
