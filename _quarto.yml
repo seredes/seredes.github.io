@@ -3,26 +3,49 @@ project:
   output-dir: docs
 
 website:
-  title: "Serena DeStefani"
-  favicon: favicon.ico
+  title: " "
+  favicon: favicon.png
   navbar:
+    search: false
     left:
-      - text: Research
+      - text: '<i class="fa-solid fa-house fa-lg fa-fw"></i> Home'
+        href: index.qmd
+      - text: '<i class="fa-solid fa-flask fa-lg fa-fw"></i> Research'
         href: about.qmd
-      - text: Teaching
+      - text: '<i class="fa-solid fa-person-chalkboard fa-lg fa-fw"></i> Teaching'
         href: teaching.qmd
-      - text: Leadership
-        href: leadership.qmd
-      - text: Adventures
-        href: adventures.qmd
-      - text: CV
+      - text: '<i class="fa-solid fa-note-sticky fa-lg fa-fw"></i> CV'
         href: cv.qmd
+    right:
+      - text: '<i class="fa-solid fa-at fa-lg fa-fw"></i>'
+        href: "mailto:serenadestefani@gmail.com"
+        aria-label: Email
+        target: _blank
+      - text: '<i class="fa-brands fa-linkedin fa-lg fa-fw"></i>'
+        href: "https://www.linkedin.com/in/serena-destefani-84341b4a/"
+        aria-label: LinkedIn
+        target: _blank
+      - text: '<i class="fa-brands fa-github fa-lg fa-fw"></i>'
+        href: "https://github.com/seredes"
+        aria-label: GitHub
+        target: _blank
+      - text: '<i class="fa-brands fa-x-twitter fa-lg fa-fw"></i>'
+        href: "https://x.com/_DeStefani"
+        aria-label: X
+        target: _blank
+      - text: '<i class="fa-brands fa-bluesky fa-lg fa-fw"></i>'
+        href: "https://bsky.app"
+        aria-label: Bluesky
+        target: _blank
+      - text: '<i class="fa-brands fa-google-scholar fa-lg fa-fw"></i>'
+        href: "https://scholar.google.com/citations?user=vAy73eMAAAAJ&hl=en"
+        aria-label: Google Scholar
+        target: _blank
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [cosmo, styles.scss]
     toc: true
+    include-in-header: fontawesome.html
 
 editor: visual
-

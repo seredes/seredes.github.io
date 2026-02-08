@@ -1,35 +1,20 @@
 ---
-title: "Serena DeStefani"
-image: "images/profile.jpg"
+title: ""
+pagetitle: "Serena DeStefani"
 page-navigation: false
 toc: false
 page-layout: full
-
+format:
+  html:
+    title-block-style: none
 about:
   id: hero-heading
   template: trestles
-  image-width: 60%
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:serenadestefani@gmail.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/serena-destefani-84341b4a/
-    - icon: github
-      text: GitHub
-      href: https://github.com/seredes
-    - icon: twitter-x
-      text: X
-      href: https://x.com/_DeStefani
-    - text: Bluesky
-      href: https://bsky.app
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=vAy73eMAAAAJ&hl=en
+image: images/profile.jpg
 ---
 
 :::{#hero-heading}
 
-I am currently a postdoctoral fellow in the Department of Psychiatry at The Ohio State University, working with Ivy Tso. I joined the lab in the Fall of 2023 after earning a Ph.D. in Cognitive Psychology from Rutgers University. I am interested in exploring how cognitive constructs like cognitive maps and probabilistic thinking underpin social impairments in psychopathology, particularly in psychosis and autism. I approach these questions using behavioral tasks (sometimes set in virtual reality), eye tracking studies, and computational modeling. By combining phenomenological and cognitive science perspectives, I aim to bridge the gap between experiential and empirical approaches to understanding human psychology. I am also passionate about statistics (and its philosophical underpinnings).
+I am currently a postdoctoral fellow in the [Department of Psychiatry at The Ohio State University](https://medicine.osu.edu/departments/psychiatry-and-behavioral-health), working with Ivy Tso. I joined the lab in the Fall of 2023 after earning a Ph.D. in Cognitive Psychology from Rutgers University. I am interested in exploring how cognitive constructs like cognitive maps and probabilistic thinking underpin social impairments in psychopathology, particularly in psychosis and autism. I approach these questions using behavioral tasks (sometimes set in virtual reality), eye tracking studies, and computational modeling. By combining phenomenological and cognitive science perspectives, I aim to bridge the gap between experiential and empirical approaches to understanding human psychology. I am also passionate about statistics (and its philosophical underpinnings).
 
 :::
