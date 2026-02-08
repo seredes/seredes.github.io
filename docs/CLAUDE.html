@@ -192,6 +192,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#project-overview" id="toc-project-overview" class="nav-link" data-scroll-target="#project-overview">Project Overview</a></li>
   <li><a href="#build-and-preview-commands" id="toc-build-and-preview-commands" class="nav-link" data-scroll-target="#build-and-preview-commands">Build and Preview Commands</a></li>
   <li><a href="#architecture" id="toc-architecture" class="nav-link" data-scroll-target="#architecture">Architecture</a></li>
+  <li><a href="#navbar-structure" id="toc-navbar-structure" class="nav-link" data-scroll-target="#navbar-structure">Navbar Structure</a></li>
   <li><a href="#teaching-slides-architecture" id="toc-teaching-slides-architecture" class="nav-link" data-scroll-target="#teaching-slides-architecture">Teaching Slides Architecture</a></li>
   <li><a href="#deployment" id="toc-deployment" class="nav-link" data-scroll-target="#deployment">Deployment</a></li>
   <li><a href="#key-conventions" id="toc-key-conventions" class="nav-link" data-scroll-target="#key-conventions">Key Conventions</a></li>
@@ -210,7 +211,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.</p>
 <section id="project-overview" class="level2">
 <h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
-<p>Academic portfolio website for Serena DeStefani, built with <strong>Quarto</strong> and deployed to <strong>GitHub Pages</strong> at <code>seredes.github.io</code>. The site uses the <code>cosmo</code> Bootstrap theme with the <code>trestles</code> about-page template.</p>
+<p>Academic portfolio website for Serena DeStefani, built with <strong>Quarto</strong> and deployed to <strong>GitHub Pages</strong> at <code>seredes.github.io</code>. The site uses the <code>cosmo</code> Bootstrap theme with custom SCSS overrides and the <code>trestles</code> about-page template.</p>
 </section>
 <section id="build-and-preview-commands" class="level2">
 <h2 class="anchored" data-anchor-id="build-and-preview-commands">Build and Preview Commands</h2>
@@ -230,15 +231,26 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="architecture" class="level2">
 <h2 class="anchored" data-anchor-id="architecture">Architecture</h2>
 <ul>
-<li><strong><code>_quarto.yml</code></strong> – Central config: defines site title, navbar links, theme (<code>cosmo</code>), output directory (<code>docs/</code>), and global format options (TOC enabled, custom CSS).</li>
-<li><strong><code>.qmd</code> files</strong> – Each file is one page. Uses Quarto Markdown with YAML front matter. Pages: <code>index.qmd</code> (homepage/about), <code>about.qmd</code> (research), <code>teaching.qmd</code>, <code>leadership.qmd</code>, <code>adventures.qmd</code>, <code>cv.qmd</code>.</li>
-<li><strong><code>index.qmd</code></strong> – Uses Quarto’s <code>about</code> template (<code>trestles</code>) with <code>#hero-heading</code> div for profile layout and icon links.</li>
+<li><strong><code>_quarto.yml</code></strong> – Central config: navbar (left: page links with icons, right: social icon links), theme (<code>cosmo</code> + <code>styles.scss</code>), output directory (<code>docs/</code>), Font Awesome CDN include.</li>
+<li><strong><code>.qmd</code> files</strong> – Each file is one page. Active pages: <code>index.qmd</code> (homepage/about), <code>about.qmd</code> (research), <code>teaching.qmd</code>, <code>cv.qmd</code>. Inactive pages still exist: <code>leadership.qmd</code>, <code>adventures.qmd</code>.</li>
+<li><strong><code>index.qmd</code></strong> – Uses Quarto’s <code>about</code> template (<code>trestles</code>) with <code>#hero-heading</code> div for centered profile image + bio layout. Social links are in the navbar, not on this page.</li>
 <li><strong><code>cv.qmd</code></strong> – Embeds <code>DeStefani_CV.pdf</code> via an <code>&lt;iframe&gt;</code> with a download button. When updating the CV, replace the PDF file at the project root.</li>
-<li><strong><code>styles.css</code></strong> – Custom CSS overrides for site layout (lecture detail pages, slide containers).</li>
-<li><strong><code>_extensions/quarto-ext/fontawesome/</code></strong> – Font Awesome extension for icon shortcodes like <code></code>.</li>
+<li><strong><code>styles.scss</code></strong> – Custom SCSS overrides: transparent navbar styling, centered trestles layout, link colors, and lecture slide container styles.</li>
+<li><strong><code>fontawesome.html</code></strong> – Included in <code>&lt;head&gt;</code> via <code>_quarto.yml</code>; loads Font Awesome 6 from CDN for navbar icons.</li>
+<li><strong><code>_extensions/quarto-ext/fontawesome/</code></strong> – Font Awesome extension for shortcodes in page content (e.g., <code></code>).</li>
+<li><strong><code>favicon.png</code></strong> – Pixel art space invader with “SD” initials. Backup favicons stored in <code>images/</code>.</li>
 <li><strong><code>docs/</code></strong> – Generated output directory. Do not edit files here directly; they are overwritten by <code>quarto render</code>.</li>
 <li><strong><code>.quarto/</code></strong> – Build cache (gitignored). Safe to delete for a clean rebuild.</li>
 </ul>
+</section>
+<section id="navbar-structure" class="level2">
+<h2 class="anchored" data-anchor-id="navbar-structure">Navbar Structure</h2>
+<p>The navbar uses inline HTML Font Awesome <code>&lt;i&gt;</code> tags (not shortcodes) for icons:</p>
+<ul>
+<li><strong>Left:</strong> Home (<code>fa-house</code>), Research (<code>fa-flask</code>), Teaching (<code>fa-person-chalkboard</code>), CV (<code>fa-note-sticky</code>)</li>
+<li><strong>Right:</strong> Icon-only social links – Email (<code>fa-at</code>), LinkedIn, GitHub, X, Bluesky, Google Scholar</li>
+</ul>
+<p>To add or edit navbar icons, use the format: <code>'&lt;i class="fa-solid fa-icon-name fa-lg fa-fw"&gt;&lt;/i&gt; Label'</code> for left items, or icon-only (no label text) for right items.</p>
 </section>
 <section id="teaching-slides-architecture" class="level2">
 <h2 class="anchored" data-anchor-id="teaching-slides-architecture">Teaching Slides Architecture</h2>
@@ -259,10 +271,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h2 class="anchored" data-anchor-id="key-conventions">Key Conventions</h2>
 <ul>
 <li>The visual editor mode is enabled (<code>editor: visual</code> in <code>_quarto.yml</code>), but <code>.qmd</code> source files can be edited as plain markdown.</li>
-<li>Navigation is defined in <code>_quarto.yml</code> under <code>website.navbar.left</code>. To add a new page, create a <code>.qmd</code> file and add a corresponding navbar entry.</li>
+<li>Navbar left items are defined in <code>_quarto.yml</code> under <code>website.navbar.left</code>, right social icons under <code>website.navbar.right</code>. To add a new page, create a <code>.qmd</code> file and add a corresponding navbar entry with an icon.</li>
 <li>Images go in the <code>images/</code> directory (site-wide) or <code>teaching/lectureN_images/</code> (lecture-specific).</li>
 <li>The project includes an <code>.Rproj</code> file for RStudio integration; R code chunks can be used in <code>.qmd</code> files if needed.</li>
-<li>Font Awesome shortcodes: <code></code> (e.g., <code></code>, <code></code>).</li>
+<li>Font Awesome in navbar: inline HTML <code>&lt;i&gt;</code> tags (loaded via CDN). Font Awesome in page content: shortcodes <code></code> (loaded via extension).</li>
 <li>Use <code>--</code> (double dash) instead of em dashes in text.</li>
 </ul>
 
