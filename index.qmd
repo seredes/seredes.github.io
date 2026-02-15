@@ -1,12 +1,10 @@
 ---
-title: ""
+title: "Hello there!"
 pagetitle: "Serena DeStefani"
 page-navigation: false
 toc: false
 page-layout: full
-format:
-  html:
-    title-block-style: none
+title-block-banner: "#CF4446"
 about:
   id: hero-heading
   template: trestles

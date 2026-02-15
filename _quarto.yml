@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: " "
+  title: "Serena DeStefani"
   favicon: favicon.png
   navbar:
+    pinned: true
     search: false
     left:
-      - text: '<i class="fa-solid fa-house fa-lg fa-fw"></i> Home'
+      - text: '<i class="fa-solid fa-circle-user fa-lg fa-fw"></i> About'
         href: index.qmd
       - text: '<i class="fa-solid fa-flask fa-lg fa-fw"></i> Research'
         href: about.qmd
@@ -42,9 +43,15 @@ website:
         aria-label: Google Scholar
         target: _blank
 
+  page-footer:
+    left: "© 2026 Serena DeStefani"
+    right: "Made with [Quarto](https://quarto.org/)"
+
 format:
   html:
     theme: [cosmo, styles.scss]
+    grid:
+      body-width: 900px
     toc: true
     include-in-header: fontawesome.html
 

@@ -1,5 +1,6 @@
 ---
 title: "Research"
+title-block-banner: "#CF4446"
 ---
 
 ![STEAM Exchange 2023](images/steam_exchange_photo5.jpg)

@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+title-block-banner: "#771C6D"
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">

@@ -1,46 +1,99 @@
 /*-- scss:defaults --*/
 
-/* Set defaults */
-$font-family-base: system-ui, -apple-system, sans-serif;
+//
+// Color system
+//
+
+$white:    #ffffff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #868e96 !default;
+$gray-700: #495057 !default;
+$gray-800: #373a3c !default;
+$gray-900: #212529 !default;
+$black:    #000000 !default;
+
+$purple:  #170C3A !default;
+$pink:    #A52C60 !default;
+$red:     #CF4446 !default;
+$orange:  #EE6A24 !default;
+$light-orange: #FB9E07 !default;
+
+$primary:   $pink !default;
+$danger:    $red !default;
+
+// Fonts
+$font-family-sans-serif: system-ui, -apple-system, sans-serif !default;
+$headings-font-family: $font-family-sans-serif !default;
+$navbar-font-family: $font-family-sans-serif !default;
+$toc-font-family: $font-family-sans-serif !default;
+$footer-font-family: $font-family-sans-serif !default;
+
+// Body
+$body-color: $gray-900 !default;
+
+// Links
+$link-color: $orange !default;
+$link-decoration: none !default;
+$link-hover-color: $red !default;
+$link-hover-decoration: underline !default;
+
+// Inline code
+$code-bg: $gray-200 !default;
+$code-color: $gray-900 !default;
+
+// TOC
+$toc-color: $orange;
+$toc-font-size: 1em;
+
+// Navbar
+$navbar-bg: $purple !default;
+$navbar-fg: $white !default;
+$navbar-hl: $light-orange !default;
+
+// Footer
+$footer-bg: $gray-900 !default;
+$footer-fg: $gray-300 !default;
 
 /*-- scss:rules --*/
 
-/* Navbar */
+body {
+    -webkit-font-smoothing: antialiased;
+}
+
+// Navbar
 .navbar {
-  background-color: transparent !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-  font-weight: 600;
-}
-
-.navbar-brand,
-.navbar-nav .nav-link,
-.navbar-nav .nav-link i {
-  color: #000 !important;
-}
-
-.navbar-brand:hover,
-.navbar-nav .nav-link:hover,
-.navbar-nav .nav-link.active:hover,
-.navbar-nav .nav-link:hover i {
-  color: #2780e3 !important;
+  font-family: $font-family-sans-serif;
 }
 
 .navbar-nav .nav-link {
   font-weight: 700;
 }
 
-.navbar-nav .nav-link.active {
-  color: inherit !important;
+.navbar-nav .nav-link,
+.navbar-nav .nav-link i {
+  color: $white !important;
 }
 
-/* About page image */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:hover i {
+  color: $light-orange !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: $white !important;
+}
+
+// About page image
 .about-entity img {
-  max-width: 240px;
+  max-width: 340px;
   height: auto;
 }
 
-/* About page centered layout */
+// About page centered layout
 .quarto-about-trestles {
   display: flex;
   align-items: center;
@@ -50,17 +103,71 @@ $font-family-base: system-ui, -apple-system, sans-serif;
   font-weight: 500;
 }
 
-/* Links */
-a {
-  color: #2780e3;
-  text-decoration: none;
+// Title block banner
+#title-block-header {
+    .quarto-title-banner {
+        font-family: $font-family-sans-serif;
+
+        .description {
+            font-size: 1.1em;
+            margin-top: 1em !important;
+        }
+    }
 }
 
-a:hover {
-  color: #1a5cb0;
+// TOC
+#TOC {
+    font-family: $font-family-sans-serif;
+    padding-bottom: 0.1em;
+    font-weight: 300;
+
+    .active {
+        font-weight: 400;
+    }
+
+    #toc-title {
+        font-weight: 600;
+    }
 }
 
-/* Slide detail page */
+// Footer
+.nav-footer {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    border: 0 !important;
+    min-height: 3em;
+    font-family: $font-family-sans-serif;
+
+    a {
+        color: $light-orange;
+    }
+
+    .nav-footer-left,
+    .nav-footer-right,
+    .nav-footer-center {
+        text-align: center;
+        width: 100%;
+        min-height: 2em;
+    }
+
+    @media (min-width: 768px) {
+        .nav-footer-left {
+            text-align: left;
+        }
+
+        .nav-footer-right {
+            text-align: right;
+        }
+
+        .nav-footer-left,
+        .nav-footer-right,
+        .nav-footer-center {
+            flex: 1 1 33%;
+        }
+    }
+}
+
+// Slide detail page
 .lecture-detail h1.title {
   font-size: 2.4rem;
 }
@@ -74,7 +181,7 @@ a:hover {
   position: relative;
   width: 85%;
   padding-bottom: 56.67%;
-  border: 1px solid #dee2e6;
+  border: 1px solid $gray-300;
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
