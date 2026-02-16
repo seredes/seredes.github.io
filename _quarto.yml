@@ -9,8 +9,6 @@ website:
     pinned: true
     search: false
     left:
-      - text: '<i class="fa-solid fa-note-sticky fa-lg fa-fw"></i> CV'
-        href: cv.qmd
       - text: '<i class="fa-solid fa-flask fa-lg fa-fw"></i> Research'
         href: about.qmd
       - text: '<i class="fa-solid fa-person-chalkboard fa-lg fa-fw"></i> Teaching'
