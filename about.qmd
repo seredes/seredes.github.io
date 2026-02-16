@@ -1,6 +1,32 @@
 ---
 title: "Research"
-title-block-banner: "#CF4446"
+title-block-banner: "#EE6A24"
 ---
 
-![STEAM Exchange 2023](images/steam_exchange_photo5.jpg)
+My research focuses on social cognition and the cognitive processes that support it, including gaze detection, face processing, and spatial navigation. I use behavioral experiments, virtual reality, eye tracking, and computational modeling to understand how these abilities vary across individuals, with a particular focus on people on the autism spectrum.
+
+## Journal articles
+
+:::: {.pub-entry}
+**DeStefani, S.,** Blain, S., Kraft, J., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026) "The dynamics of social gaze: visual attention and autonomic arousal among individuals with varying levels of autistic traits," *Research in Autism*. (in press)
+
+[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+::::
+
+:::: {.pub-entry}
+Sohn, S., **DeStefani, S.,** Schwartz, M., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). "On the Separability of Human Navigational Behaviors in Virtual Reality," *Proceedings for the 47th Annual Meeting of the Cognitive Science Society*.
+
+[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+::::
+
+:::: {.pub-entry}
+**DeStefani, S.,** Stromswold, K., & Feldman, J. (2020). "Integration of visual and spoken cues in a virtual reality navigation task," *Proceedings for the 42nd Annual Meeting of the Cognitive Science Society*.
+
+[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+::::
+
+:::: {.pub-entry}
+Sohn, S., **DeStefani, S.,** Kapadia, M. (2018). "Dynamic Cognitive Maps for Agent Landmark Navigation in Unseen Environments," *MIG 2018 Proceedings*.
+
+[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+::::

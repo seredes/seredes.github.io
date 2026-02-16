@@ -13,6 +13,55 @@ To revert from "About" back to "Home", replace the About entry in `_quarto.yml` 
 
 ---
 
+## Navbar: About tab (removed)
+
+The About tab was removed because it was redundant with the site title "Serena DeStefani" (both link to `index.qmd`). The original entry was:
+
+```yaml
+- text: '<i class="fa-solid fa-circle-user fa-lg fa-fw"></i> About'
+  href: index.qmd
+```
+
+To restore it, add the entry back to `_quarto.yml` under `website.navbar.left` (it was the first item).
+
+---
+
+## Teaching: Lecture 1 embedded slides (moved to course site)
+
+Lecture 1 was embedded on the personal site using a two-file pattern. It has been moved to the course site at `quant-methods-psych/content/01-content.qmd`. To restore it on the personal site:
+
+**Detail page** (`teaching/lecture1.qmd`):
+
+```yaml
+---
+title: "Lecture 1: Introduction"
+subtitle: "Quantitative Methods in Psychology"
+date: "7/6/2020"
+toc: false
+body-classes: lecture-detail
+---
+```
+
+Body content used a description paragraph, then a "Open slides in full screen" link and an iframe:
+
+```markdown
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](lecture1-slides.html){target="_blank"}
+:::
+
+::: {.slide-container}
+<iframe class="slide-frame" src="lecture1-slides.html"></iframe>
+:::
+```
+
+**Slide deck** (`teaching/lecture1-slides.qmd`): Quarto Reveal.js format with `css: slides-style.css`, width 1050, height 700.
+
+**CSS classes** used: `.lecture-detail`, `.slide-link-bar`, `.slide-container`, `.slide-frame` (defined in `styles.scss`).
+
+The teaching page (`teaching.qmd`) linked to it via `[Lecture 1: Introduction](teaching/lecture1.html)`.
+
+---
+
 # Font Options for This Site
 
 ## Current fonts (system defaults)

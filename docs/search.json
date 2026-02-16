@@ -25,7 +25,56 @@
     "href": "about.html",
     "title": "Research",
     "section": "",
-    "text": "STEAM Exchange 2023"
+    "text": "My research focuses on social cognition and the cognitive processes that support it, including gaze detection, face processing, and spatial navigation. I use behavioral experiments, virtual reality, eye tracking, and computational modeling to understand how these abilities vary across individuals, with a particular focus on people on the autism spectrum."
+  },
+  {
+    "objectID": "about.html#journal-articles",
+    "href": "about.html#journal-articles",
+    "title": "Research",
+    "section": "Journal articles",
+    "text": "Journal articles\n\nDeStefani, S., Blain, S., Kraft, J., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026) “The dynamics of social gaze: visual attention and autonomic arousal among individuals with varying levels of autistic traits,” Research in Autism. (in press)\nLink PDF\n\n\nSohn, S., DeStefani, S., Schwartz, M., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). “On the Separability of Human Navigational Behaviors in Virtual Reality,” Proceedings for the 47th Annual Meeting of the Cognitive Science Society.\nLink PDF\n\n\nDeStefani, S., Stromswold, K., & Feldman, J. (2020). “Integration of visual and spoken cues in a virtual reality navigation task,” Proceedings for the 42nd Annual Meeting of the Cognitive Science Society.\nLink PDF\n\n\nSohn, S., DeStefani, S., Kapadia, M. (2018). “Dynamic Cognitive Maps for Agent Landmark Navigation in Unseen Environments,” MIG 2018 Proceedings.\nLink PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "I’m a postdoctoral fellow at The Ohio State University, working with Dr. Ivy Tso. I received a PhD in Cognitive Psychology from Rutgers University in 2023, and I hold a BA in Psychology and Statistics from Columbia University.\nI study social cognition and the processes that support it, from gaze detection to face processing to social wayfinding. I am particularly interested in how these processes vary across individuals, including people on the autism spectrum. I approach these questions using behavioral tasks, virtual reality, eye tracking, and computational modeling.\nI have taught courses on quantitative methods in psychology, cognitive science, and expository writing. I’m also passionate about statistics and its philosophical underpinnings."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow.\n Teaching Philosophy  Teaching Evaluations"
+  },
+  {
+    "objectID": "teaching.html#overview",
+    "href": "teaching.html#overview",
+    "title": "Teaching",
+    "section": "",
+    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow.\n Teaching Philosophy  Teaching Evaluations"
+  },
+  {
+    "objectID": "teaching.html#quantitative-methods-in-psychology",
+    "href": "teaching.html#quantitative-methods-in-psychology",
+    "title": "Teaching",
+    "section": "Quantitative Methods in Psychology",
+    "text": "Quantitative Methods in Psychology\nAn intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills."
+  },
+  {
+    "objectID": "teaching.html#cognition-lab",
+    "href": "teaching.html#cognition-lab",
+    "title": "Teaching",
+    "section": "Cognition Lab",
+    "text": "Cognition Lab\nThis course bridges theoretical knowledge and practical research skills through active experimentation. Each week, students explore a new experimental paradigm—examining its theoretical foundations and methodological underpinnings—before building it from the ground up using PsychoPy, collecting their own data, and drafting corresponding report sections. The course culminates in an original research project where students design their own study, collect data from peers, conduct analyses, and produce a complete research report. The course develops both technical proficiency and the research mindset essential for conducting independent psychological investigations.\nStudents build cognitive experiments from the ground up using PsychoPy, gaining deep understanding of research methodology through direct experience."
+  },
+  {
+    "objectID": "teaching.html#expository-writing",
+    "href": "teaching.html#expository-writing",
+    "title": "Teaching",
+    "section": "Expository Writing",
+    "text": "Expository Writing\nThis freshman seminar approaches writing as a tool for intellectual discovery and academic engagement. Students learn to identify unexpected connections between texts, construct original arguments, and articulate complex ideas with clarity and precision. The course emphasizes revision, peer collaboration, and intellectual risk-taking within a supportive community. Students gain confidence in their ability to contribute meaningfully to academic conversations across disciplines."
   },
   {
     "objectID": "leadership.html",
@@ -54,41 +103,6 @@
     "title": "Leadership",
     "section": "Columbia University GS Award Committee Co-Chair",
     "text": "Columbia University GS Award Committee Co-Chair\n[Content about Columbia University GS Award Committee Co-Chair role will go here]\n\n\n\nSTEAM Exchange 2023"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow."
-  },
-  {
-    "objectID": "teaching.html#quantitative-methods-in-psychology",
-    "href": "teaching.html#quantitative-methods-in-psychology",
-    "title": "Teaching",
-    "section": "Quantitative Methods in Psychology",
-    "text": "Quantitative Methods in Psychology\nAn intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills.\n\nLectures\n\nLecture 1: Introduction"
-  },
-  {
-    "objectID": "teaching.html#cognition-lab",
-    "href": "teaching.html#cognition-lab",
-    "title": "Teaching",
-    "section": "Cognition Lab",
-    "text": "Cognition Lab\nThis course bridges theoretical knowledge and practical research skills through active experimentation. Each week, students explore a new experimental paradigm—examining its theoretical foundations and methodological underpinnings—before building it from the ground up using PsychoPy, collecting their own data, and drafting corresponding report sections. The course culminates in an original research project where students design their own study, collect data from peers, conduct analyses, and produce a complete research report. The course develops both technical proficiency and the research mindset essential for conducting independent psychological investigations.\nStudents build cognitive experiments from the ground up using PsychoPy, gaining deep understanding of research methodology through direct experience."
-  },
-  {
-    "objectID": "teaching.html#expository-writing",
-    "href": "teaching.html#expository-writing",
-    "title": "Teaching",
-    "section": "Expository Writing",
-    "text": "Expository Writing\nThis freshman seminar approaches writing as a tool for intellectual discovery and academic engagement. Students learn to identify unexpected connections between texts, construct original arguments, and articulate complex ideas with clarity and precision. The course emphasizes revision, peer collaboration, and intellectual risk-taking within a supportive community. Students gain confidence in their ability to contribute meaningfully to academic conversations across disciplines."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello there!",
-    "section": "",
-    "text": "I am currently a postdoctoral fellow in the Department of Psychiatry at The Ohio State University, working with Ivy Tso. I joined the lab in the Fall of 2023 after earning a Ph.D. in Cognitive Psychology from Rutgers University. I am interested in exploring how cognitive constructs like cognitive maps and probabilistic thinking underpin social impairments in psychopathology, particularly in psychosis and autism. I approach these questions using behavioral tasks (sometimes set in virtual reality), eye tracking studies, and computational modeling. By combining phenomenological and cognitive science perspectives, I aim to bridge the gap between experiential and empirical approaches to understanding human psychology. I am also passionate about statistics (and its philosophical underpinnings)."
   },
   {
     "objectID": "teaching/lecture1_slides16-25.html#what-is-statistics",

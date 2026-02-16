@@ -64,6 +64,11 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+// Compensate for lighter-appearing link color
+a {
+  font-weight: 600;
+}
+
 // Navbar
 .navbar {
   font-family: $font-family-sans-serif;
@@ -111,6 +116,12 @@ body {
         .description {
             font-size: 1.1em;
             margin-top: 1em !important;
+        }
+
+        // Consistent left alignment regardless of TOC placement
+        .quarto-title {
+            grid-column: screen-start / screen-end !important;
+            padding-left: 1.5em;
         }
     }
 }
@@ -194,4 +205,40 @@ body {
   width: 100%;
   height: 100%;
   border: none;
+}
+
+// Publication entries
+.pub-entry {
+  border-left: 3px solid $orange;
+  padding-left: 1em;
+  margin-bottom: 1.5em;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.btn-pub {
+  background-color: $orange;
+  color: $white;
+  border: 1px solid $orange;
+  font-weight: 600;
+
+  &:hover {
+    background-color: $red;
+    border-color: $red;
+    color: $white;
+  }
+}
+
+.btn-pub-outline {
+  background-color: $white;
+  color: $orange;
+  border: 1px solid $orange;
+  font-weight: 600;
+
+  &:hover {
+    background-color: $orange;
+    color: $white;
+  }
 }

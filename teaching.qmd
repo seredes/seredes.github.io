@@ -1,18 +1,19 @@
 ---
 title: "Teaching"
 toc-location: left
-title-block-banner: "#EE6A24"
+toc-title: ""
+title-block-banner: "#CF4446"
 ---
 
+## Overview
+
 I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow.
+
+[{{< fa file-lines >}} Teaching Philosophy](teaching_philosophy.pdf){.btn .btn-pub .btn-sm target="_blank"} [{{< fa chart-bar >}} Teaching Evaluations](DeStefani_all_teaching_evaluations.pdf){.btn .btn-pub .btn-sm target="_blank"}
 
 ## Quantitative Methods in Psychology
 
 An intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills.
-
-### Lectures
-
-- [Lecture 1: Introduction](teaching/lecture1.html)
 
 ## Cognition Lab
 
