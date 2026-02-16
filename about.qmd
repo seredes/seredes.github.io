@@ -10,23 +10,57 @@ My research focuses on social cognition and the cognitive processes that support
 :::: {.pub-entry}
 **DeStefani, S.,** Blain, S., Kraft, J., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026) "The dynamics of social gaze: visual attention and autonomic arousal among individuals with varying levels of autistic traits," *Research in Autism*. (in press)
 
-[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Link](https://doi.org/10.1016/j.reia.2026.202821){.btn .btn-pub .btn-sm target="_blank"} [PDF](files/papers/DeStefani_etal_2026_ResearchInAutism.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::
 
 :::: {.pub-entry}
 Sohn, S., **DeStefani, S.,** Schwartz, M., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). "On the Separability of Human Navigational Behaviors in Virtual Reality," *Proceedings for the 47th Annual Meeting of the Cognitive Science Society*.
 
-[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Link](https://escholarship.org/uc/item/4pm6p2wv){.btn .btn-pub .btn-sm target="_blank"} [PDF](files/papers/Sohn_etal_2025_CogSci.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::
 
 :::: {.pub-entry}
 **DeStefani, S.,** Stromswold, K., & Feldman, J. (2020). "Integration of visual and spoken cues in a virtual reality navigation task," *Proceedings for the 42nd Annual Meeting of the Cognitive Science Society*.
 
-[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Link](https://escholarship.org/uc/item/87f0z0v8){.btn .btn-pub .btn-sm target="_blank"} [PDF](files/papers/DeStefani_etal_2020_CogSci.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::
 
 :::: {.pub-entry}
 Sohn, S., **DeStefani, S.,** Kapadia, M. (2018). "Dynamic Cognitive Maps for Agent Landmark Navigation in Unseen Environments," *MIG 2018 Proceedings*.
 
-[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Link](https://dl.acm.org/doi/10.1145/3274247.3274518){.btn .btn-pub .btn-sm target="_blank"} [PDF](files/papers/Sohn_etal_2018_MIG.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
+::::
+
+## Under review
+
+\* *student co-author*
+
+:::: {.pub-entry}
+Kemp, K., Blain, S. D., Zehra, S., **DeStefani, S.,** Locarno, L., Mathis, K., Lasagna, C., & Tso, I. F. (2025). "Sex Differences in Social Cognition: Insights from a Sample Enriched for Social Dysfunction." (in revision)
+
+[PDF](){.btn .btn-pub-outline .btn-sm}
+::::
+
+:::: {.pub-entry}
+\*Kvetnoy, A., Suchojad, J., **DeStefani, S.,** Stromswold, K., Feldman, J. (2025). "The role of eye gaze in social wayfinding." (in revision)
+
+[PDF](){.btn .btn-pub-outline .btn-sm}
+::::
+
+:::: {.pub-entry}
+**DeStefani, S.,** Sohn, S., Schwartz, M., \*Sharma, Y., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). "Behavioral effects of anti-pandemic preventive measures: a VR study."
+
+[PDF](){.btn .btn-pub-outline .btn-sm}
+::::
+
+:::: {.pub-entry}
+**DeStefani, S.,** Blain, S., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026). "Visual Exploration Efficiency Moderates the Association Between Autistic Traits and Social Cognition."
+
+[PDF](){.btn .btn-pub-outline .btn-sm}
+::::
+
+:::: {.pub-entry}
+Mathis, K., Blain, S. D., Locarno, L., Lasagna, C., **DeStefani, S.,** Kraft, J., Colombi, C., Thakkar, K., Burton, C., & Tso, I. F. (2026). "The link between basic visual processing and higher-level social cognition: Eye gaze perception as a mechanistic bridge in a transdiagnostic sample enriched with social dysfunction."
+
+[PDF](){.btn .btn-pub-outline .btn-sm}
 ::::
