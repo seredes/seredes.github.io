@@ -1,8 +1,11 @@
 ---
 title: "Curriculum Vitae"
 pagetitle: "CV"
-description: "Curriculum vitae of Serena DeStefani -- postdoctoral fellow in cognitive psychology at The Ohio State University."
 title-block-banner: "#771C6D"
+format:
+  html:
+    include-in-header:
+      text: '<meta name="description" content="Curriculum vitae of Serena DeStefani -- postdoctoral fellow in cognitive psychology at The Ohio State University.">'
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">

@@ -1,10 +1,13 @@
 ---
 title: "Research"
 pagetitle: "Research"
-description: "Publications and research by Serena DeStefani on social cognition, gaze detection, face processing, virtual reality navigation, and autism spectrum differences."
 toc-location: left
 toc-title: ""
 title-block-banner: "#EE6A24"
+format:
+  html:
+    include-in-header:
+      text: '<meta name="description" content="Publications and research by Serena DeStefani on social cognition, gaze detection, face processing, virtual reality navigation, and autism spectrum differences.">'
 ---
 
 My research focuses on social cognition and the cognitive processes that support it, including gaze detection, face processing, and spatial navigation. I use behavioral experiments, virtual reality, eye tracking, and computational modeling to understand how these abilities vary across individuals, with a particular focus on people on the autism spectrum.

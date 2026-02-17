@@ -1,10 +1,13 @@
 ---
 title: "Teaching"
 pagetitle: "Teaching"
-description: "Serena DeStefani's teaching experience in quantitative methods, cognitive science labs, and expository writing at Rutgers University and Ohio State University."
 toc-location: left
 toc-title: ""
 title-block-banner: "#CF4446"
+format:
+  html:
+    include-in-header:
+      text: '<meta name="description" content="Serena DeStefani''s teaching experience in quantitative methods, cognitive science labs, and expository writing at Rutgers University and Ohio State University.">'
 ---
 
 ## Overview
