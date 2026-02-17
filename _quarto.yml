@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google56073bacba8f92a9.html
 
 website:
   title: "Serena DeStefani"
