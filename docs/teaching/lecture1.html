@@ -72,11 +72,54 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Serena DeStefani",
+  "givenName": "Serena",
+  "familyName": "DeStefani",
+  "url": "https://seredes.github.io",
+  "image": "https://seredes.github.io/images/profile.jpg",
+  "jobTitle": "Postdoctoral Fellow",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "The Ohio State University",
+    "url": "https://www.osu.edu"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Rutgers University",
+      "url": "https://www.rutgers.edu"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Columbia University",
+      "url": "https://www.columbia.edu"
+    }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/serena-destefani-84341b4a/",
+    "https://github.com/seredes",
+    "https://scholar.google.com/citations?user=vAy73eMAAAAJ&hl=en",
+    "https://x.com/_DeStefani"
+  ],
+  "knowsAbout": ["social cognition", "gaze detection", "face processing", "autism spectrum", "virtual reality", "eye tracking", "computational modeling", "cognitive psychology"]
+}
+</script>
 
 
+<meta property="og:title" content="Lecture 1: Introduction – Serena DeStefani">
+<meta property="og:description" content="Quantitative Methods in Psychology">
+<meta property="og:site_name" content="Serena DeStefani">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:title" content="Lecture 1: Introduction – Serena DeStefani">
+<meta name="twitter:description" content="Quantitative Methods in Psychology">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed lecture-detail fullcontent quarto-light">
+<body class="floating nav-fixed lecture-detail fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -138,6 +181,10 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -254,7 +301,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/seredes\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

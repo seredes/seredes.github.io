@@ -1,5 +1,7 @@
 ---
 title: "Research"
+pagetitle: "Research"
+description: "Publications and research by Serena DeStefani on social cognition, gaze detection, face processing, virtual reality navigation, and autism spectrum differences."
 toc-location: left
 toc-title: ""
 title-block-banner: "#EE6A24"

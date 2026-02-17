@@ -4,7 +4,15 @@ project:
 
 website:
   title: "Serena DeStefani"
+  description: "Serena DeStefani -- Postdoctoral researcher in cognitive psychology at The Ohio State University. Research on social cognition, gaze detection, face processing, and autism."
+  site-url: "https://seredes.github.io"
   favicon: favicon.png
+
+  open-graph:
+    locale: en_US
+    site-name: "Serena DeStefani"
+  twitter-card:
+    card-style: summary
   navbar:
     pinned: true
     search: false
@@ -51,6 +59,8 @@ format:
     toc: true
     toc-location: left
     toc-title: ""
-    include-in-header: fontawesome.html
+    include-in-header:
+      - fontawesome.html
+      - schema.html
 
 editor: visual
