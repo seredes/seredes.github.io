@@ -20,4 +20,8 @@ I study social cognition and the processes that support it, from gaze detection 
 
 I have taught courses on quantitative methods in psychology, cognitive science, and expository writing. I'm also passionate about statistics and its philosophical underpinnings.
 
+::: {.visually-hidden}
+Also known as Serena De Stefani.
+:::
+
 :::
