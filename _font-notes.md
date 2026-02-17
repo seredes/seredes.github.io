@@ -101,3 +101,19 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..
 ```
 
 3. To revert back to system fonts, remove all of the above and set `$font-family-sans-serif: system-ui, -apple-system, sans-serif;` instead.
+
+---
+
+## Favicon: Heiss hexagon (replaced space invader)
+
+**Old favicon:** Pixel art orange space invader with "SD" initials (`images/favicon-space-invader-sd.png`).
+
+**New favicon:** Andrew Heiss's geometric hexagon with red/coral triangular segments and dark navy borders. Copied from his site repo (`ath-quarto/files/favicon-512.png`).
+
+**To revert to the original space invader favicon**, run:
+
+```bash
+cp images/favicon-space-invader-sd.png favicon.png
+```
+
+Then re-render the site with `quarto render`. The `_quarto.yml` entry (`favicon: favicon.png`) does not need to change -- it uses the same filename either way.

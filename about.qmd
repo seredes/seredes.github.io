@@ -1,5 +1,7 @@
 ---
 title: "Research"
+toc-location: left
+toc-title: ""
 title-block-banner: "#EE6A24"
 ---
 
@@ -38,29 +40,29 @@ Sohn, S., **DeStefani, S.,** Kapadia, M. (2018). "Dynamic Cognitive Maps for Age
 :::: {.pub-entry}
 Kemp, K., Blain, S. D., Zehra, S., **DeStefani, S.,** Locarno, L., Mathis, K., Lasagna, C., & Tso, I. F. (2025). "Sex Differences in Social Cognition: Insights from a Sample Enriched for Social Dysfunction." (in revision)
 
-[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Preprint](){.btn .btn-pub-outline .btn-sm}
 ::::
 
 :::: {.pub-entry}
 \*Kvetnoy, A., Suchojad, J., **DeStefani, S.,** Stromswold, K., Feldman, J. (2025). "The role of eye gaze in social wayfinding." (in revision)
 
-[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Preprint](){.btn .btn-pub-outline .btn-sm}
 ::::
 
 :::: {.pub-entry}
 **DeStefani, S.,** Sohn, S., Schwartz, M., \*Sharma, Y., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). "Behavioral effects of anti-pandemic preventive measures: a VR study."
 
-[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Preprint](){.btn .btn-pub-outline .btn-sm}
 ::::
 
 :::: {.pub-entry}
 **DeStefani, S.,** Blain, S., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026). "Visual Exploration Efficiency Moderates the Association Between Autistic Traits and Social Cognition."
 
-[Link](){.btn .btn-pub .btn-sm} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Preprint](){.btn .btn-pub-outline .btn-sm}
 ::::
 
 :::: {.pub-entry}
 Mathis, K., Blain, S. D., Locarno, L., Lasagna, C., **DeStefani, S.,** Kraft, J., Colombi, C., Thakkar, K., Burton, C., & Tso, I. F. (2026). "The link between basic visual processing and higher-level social cognition: Eye gaze perception as a mechanistic bridge in a transdiagnostic sample enriched with social dysfunction."
 
-[Link](https://osf.io/preprints/psyarxiv/r8fpw_v2){.btn .btn-pub .btn-sm target="_blank"} [PDF](){.btn .btn-pub-outline .btn-sm}
+[Preprint](https://osf.io/preprints/psyarxiv/r8fpw_v2){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::
