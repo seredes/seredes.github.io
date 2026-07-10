@@ -32,4 +32,6 @@ Students build cognitive experiments from the ground up using PsychoPy, gaining 
 
 ## Expository Writing
 
+[{{< fa arrow-up-right-from-square >}} Course website](https://seredes.github.io/exp_writing/){.btn .btn-pub .btn-sm target="_blank"}
+
 This freshman seminar approaches writing as a tool for intellectual discovery and academic engagement. Students learn to identify unexpected connections between texts, construct original arguments, and articulate complex ideas with clarity and precision. The course emphasizes revision, peer collaboration, and intellectual risk-taking within a supportive community. Students gain confidence in their ability to contribute meaningfully to academic conversations across disciplines.
