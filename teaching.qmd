@@ -24,6 +24,8 @@ An intensive introduction to statistical reasoning in psychological research. Th
 
 ## Cognition Lab
 
+[{{< fa arrow-up-right-from-square >}} Course website](https://seredes.github.io/cognitive-lab/){.btn .btn-pub .btn-sm target="_blank"}
+
 This course bridges theoretical knowledge and practical research skills through active experimentation.  Each week, students explore a new experimental paradigm—examining its theoretical foundations and methodological underpinnings—before building it from the ground up using PsychoPy, collecting their own data, and drafting corresponding report sections. The course culminates in an original research project where students design their own study, collect data from peers, conduct analyses, and produce a complete research report. The course develops both technical proficiency and the research mindset essential for conducting independent psychological investigations.
 
 Students build cognitive experiments from the ground up using PsychoPy, gaining deep understanding of research methodology through direct experience.
