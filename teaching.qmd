@@ -18,6 +18,8 @@ I approach teaching through three core principles: respecting students as indivi
 
 ## Quantitative Methods in Psychology
 
+[{{< fa arrow-up-right-from-square >}} Course website](https://seredes.github.io/quant-methods-psych/){.btn .btn-pub .btn-sm target="_blank"}
+
 An intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills.
 
 ## Cognition Lab
