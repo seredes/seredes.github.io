@@ -1,0 +1,23 @@
+---
+title: "Resources"
+pagetitle: "Resources"
+toc-location: left
+toc-title: ""
+title-block-banner: "#EE6A24"
+format:
+  html:
+    include-in-header:
+      text: '<meta name="description" content="Resources built and maintained by Serena DeStefani, including PsychReviews, a searchable index of psychology book reviews.">'
+---
+
+## PsychReviews
+
+[{{< fa arrow-up-right-from-square >}} psychreviews](https://seredes.github.io/psych-reviews/){.btn .btn-pub .btn-sm target="_blank"}
+
+A searchable index of book reviews published in psychology and adjacent
+fields: cognitive science, psychiatry, and the philosophy of mind and
+phenomenology. The index currently covers more than 56,000 reviews from over
+50 journals, spanning 1851 to today, with filters by subfield, journal, and
+year, and an RSS feed of new entries. Inspired by
+[PhilReviews](https://philreviews.org). Each entry links to the review at
+the publisher's site.

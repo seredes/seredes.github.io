@@ -7,179 +7,18 @@
     "text": "Personal interests, hobbies, and adventures outside of academia"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Download CV (PDF) \n\n\n&lt;p&gt;\nYour browser does not support PDFs. &lt;a href=\"DeStefani_CV.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
+    "text": "psychreviews\nA searchable index of book reviews published in psychology and adjacent fields: cognitive science, psychiatry, and the philosophy of mind and phenomenology. The index currently covers more than 56,000 reviews from over 50 journals, spanning 1851 to today, with filters by subfield, journal, and year, and an RSS feed of new entries. Inspired by PhilReviews. Each entry links to the review at the publisher’s site."
   },
   {
-    "objectID": "teaching/lecture1.html",
-    "href": "teaching/lecture1.html",
-    "title": "Lecture 1: Introduction",
+    "objectID": "resources.html#psychreviews",
+    "href": "resources.html#psychreviews",
+    "title": "Resources",
     "section": "",
-    "text": "This lecture introduces the course and covers the definition of statistics, a brief history of the field, data and variables, and categorical data displays.\n\n Open slides in full screen"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research focuses on social cognition and the cognitive processes that support it, including gaze detection, face processing, and spatial navigation. I use behavioral experiments, virtual reality, eye tracking, and computational modeling to understand how these abilities vary across individuals, with a particular focus on people on the autism spectrum."
-  },
-  {
-    "objectID": "about.html#journal-articles",
-    "href": "about.html#journal-articles",
-    "title": "Research",
-    "section": "Journal articles",
-    "text": "Journal articles\n\nDeStefani, S., Blain, S., Kraft, J., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026) “The dynamics of social gaze: visual attention and autonomic arousal among individuals with varying levels of autistic traits,” Research in Autism. (in press)\nLink PDF\n\n\nSohn, S., DeStefani, S., Schwartz, M., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). “On the Separability of Human Navigational Behaviors in Virtual Reality,” Proceedings for the 47th Annual Meeting of the Cognitive Science Society.\nLink PDF\n\n\nDeStefani, S., Stromswold, K., & Feldman, J. (2020). “Integration of visual and spoken cues in a virtual reality navigation task,” Proceedings for the 42nd Annual Meeting of the Cognitive Science Society.\nLink PDF\n\n\nSohn, S., DeStefani, S., Kapadia, M. (2018). “Dynamic Cognitive Maps for Agent Landmark Navigation in Unseen Environments,” MIG 2018 Proceedings.\nLink PDF"
-  },
-  {
-    "objectID": "about.html#under-review",
-    "href": "about.html#under-review",
-    "title": "Research",
-    "section": "Under review",
-    "text": "Under review\n* student co-author\n\nKemp, K., Blain, S. D., Zehra, S., DeStefani, S., Locarno, L., Mathis, K., Lasagna, C., & Tso, I. F. (2025). “Sex Differences in Social Cognition: Insights from a Sample Enriched for Social Dysfunction.” (in revision)\nPreprint\n\n\n*Kvetnoy, A., Suchojad, J., DeStefani, S., Stromswold, K., Feldman, J. (2025). “The role of eye gaze in social wayfinding.” (in revision)\nPreprint\n\n\nDeStefani, S., Sohn, S., Schwartz, M., *Sharma, Y., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). “Behavioral effects of anti-pandemic preventive measures: a VR study.”\nPreprint\n\n\nDeStefani, S., Blain, S., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026). “Visual Exploration Efficiency Moderates the Association Between Autistic Traits and Social Cognition.”\nPreprint\n\n\nMathis, K., Blain, S. D., Locarno, L., Lasagna, C., DeStefani, S., Kraft, J., Colombi, C., Thakkar, K., Burton, C., & Tso, I. F. (2026). “The link between basic visual processing and higher-level social cognition: Eye gaze perception as a mechanistic bridge in a transdiagnostic sample enriched with social dysfunction.”\nPreprint"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello!",
-    "section": "",
-    "text": "I’m a postdoctoral fellow at The Ohio State University, working with Dr. Ivy Tso. I received a PhD in Cognitive Psychology from Rutgers University in 2023, and I hold a BA in Psychology and Statistics from Columbia University.\nI study social cognition and the processes that support it, from gaze detection to face processing to social wayfinding. I am particularly interested in how these processes vary across individuals, including people on the autism spectrum. I approach these questions using behavioral tasks, virtual reality, eye tracking, and computational modeling.\nI have taught courses on quantitative methods in psychology, cognitive science, and expository writing. I’m also passionate about statistics and its philosophical underpinnings.\n\nAlso known as Serena De Stefani."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow.\n Teaching Philosophy  Teaching Evaluations"
-  },
-  {
-    "objectID": "teaching.html#overview",
-    "href": "teaching.html#overview",
-    "title": "Teaching",
-    "section": "",
-    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow.\n Teaching Philosophy  Teaching Evaluations"
-  },
-  {
-    "objectID": "teaching.html#quantitative-methods-in-psychology",
-    "href": "teaching.html#quantitative-methods-in-psychology",
-    "title": "Teaching",
-    "section": "Quantitative Methods in Psychology",
-    "text": "Quantitative Methods in Psychology\n Course website\nAn intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills."
-  },
-  {
-    "objectID": "teaching.html#cognition-lab",
-    "href": "teaching.html#cognition-lab",
-    "title": "Teaching",
-    "section": "Cognition Lab",
-    "text": "Cognition Lab\n Course website\nThis course bridges theoretical knowledge and practical research skills through active experimentation. Each week, students explore a new experimental paradigm—examining its theoretical foundations and methodological underpinnings—before building it from the ground up using PsychoPy, collecting their own data, and drafting corresponding report sections. The course culminates in an original research project where students design their own study, collect data from peers, conduct analyses, and produce a complete research report. The course develops both technical proficiency and the research mindset essential for conducting independent psychological investigations.\nStudents build cognitive experiments from the ground up using PsychoPy, gaining deep understanding of research methodology through direct experience."
-  },
-  {
-    "objectID": "teaching.html#expository-writing",
-    "href": "teaching.html#expository-writing",
-    "title": "Teaching",
-    "section": "Expository Writing",
-    "text": "Expository Writing\n Course website\nThis freshman seminar approaches writing as a tool for intellectual discovery and academic engagement. Students learn to identify unexpected connections between texts, construct original arguments, and articulate complex ideas with clarity and precision. The course emphasizes revision, peer collaboration, and intellectual risk-taking within a supportive community. Students gain confidence in their ability to contribute meaningfully to academic conversations across disciplines."
-  },
-  {
-    "objectID": "leadership.html",
-    "href": "leadership.html",
-    "title": "Leadership",
-    "section": "",
-    "text": "[Content about OSU Postdoctoral Association Co-Chair role will go here]"
-  },
-  {
-    "objectID": "leadership.html#osu-postdoctoral-association-co-chair",
-    "href": "leadership.html#osu-postdoctoral-association-co-chair",
-    "title": "Leadership",
-    "section": "",
-    "text": "[Content about OSU Postdoctoral Association Co-Chair role will go here]"
-  },
-  {
-    "objectID": "leadership.html#cognitive-science-graduate-group-president",
-    "href": "leadership.html#cognitive-science-graduate-group-president",
-    "title": "Leadership",
-    "section": "Cognitive Science Graduate Group President",
-    "text": "Cognitive Science Graduate Group President\n[Content about Cognitive Science Graduate Group President role will go here]"
-  },
-  {
-    "objectID": "leadership.html#columbia-university-gs-award-committee-co-chair",
-    "href": "leadership.html#columbia-university-gs-award-committee-co-chair",
-    "title": "Leadership",
-    "section": "Columbia University GS Award Committee Co-Chair",
-    "text": "Columbia University GS Award Committee Co-Chair\n[Content about Columbia University GS Award Committee Co-Chair role will go here]\n\n\n\nSTEAM Exchange 2023"
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#what-is-statistics",
-    "href": "teaching/lecture1_slides16-25.html#what-is-statistics",
-    "title": "Quantitative Methods",
-    "section": "What is Statistics?",
-    "text": "What is Statistics?\n\n\nThe practice of collecting and collating numerical facts\n\nGoes back to beginning of human civilization.\n… in 1749, word Statistik introduced by Gottfried Achenwall.\nFrom the Latin statisticum (“of the state”).\nIt designated the collection of data about the state."
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#the-definition-of-statistics",
-    "href": "teaching/lecture1_slides16-25.html#the-definition-of-statistics",
-    "title": "Quantitative Methods",
-    "section": "The Definition of Statistics",
-    "text": "The Definition of Statistics\n\n\n\nThe process of reasoning about the data collected\n\nInferential statistics:\n\nParameter estimation\nHypothesis testing"
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#why-do-we-need-statistics",
-    "href": "teaching/lecture1_slides16-25.html#why-do-we-need-statistics",
-    "title": "Quantitative Methods",
-    "section": "Why do we need statistics?",
-    "text": "Why do we need statistics?\n\nWhat is biology about?\nWhat is economics about?\nWhat is sociology about?\n…What is statistics about?\n\n\nStatistics is about variation.\nStatistics helps us make sense of the data and how the data vary.\nStatistics is a collection of conceptual and mathematical tools that allow us to study such variation."
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#why-is-statistics-important-for-psychology",
-    "href": "teaching/lecture1_slides16-25.html#why-is-statistics-important-for-psychology",
-    "title": "Quantitative Methods",
-    "section": "Why is Statistics important for Psychology?",
-    "text": "Why is Statistics important for Psychology?\nThe use of Statistics qualifies Psychology as a science…\n\nUsing statistics we can determine whether a psychological hypothesis is true for a wider population, or whether a treatment works or not.\n\n\nStatistical methods provide a unifying force within Psychology."
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics",
-    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics",
-    "title": "Quantitative Methods",
-    "section": "What’s the origin of Statistics?",
-    "text": "What’s the origin of Statistics?\nStarting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:\n\n\n\nField\nContribution\n\n\n\n\nDemography\nStatistical summaries\n\n\nAstronomy\nTheory of errors, normal distribution\n\n\nGambling\nProbability theory\n\n\nAgriculture\nExperimental design"
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-1",
-    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-1",
-    "title": "Quantitative Methods",
-    "section": "What’s the origin of Statistics?",
-    "text": "What’s the origin of Statistics?\nLet’s take a step back…\n\nIn 1687 Newton published Principia Mathematica\n\nLaws of motion, gravitation\nNow it’s possible to predict mathematically the movement of objects, including stars!\n\n\n\nBut what about other complex phenomena?"
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-2",
-    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-2",
-    "title": "Quantitative Methods",
-    "section": "What’s the origin of Statistics?",
-    "text": "What’s the origin of Statistics?\nAt some point it was found that many events follow what we call a normal distribution.\nHow did they find out?"
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-3",
-    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-3",
-    "title": "Quantitative Methods",
-    "section": "What’s the origin of Statistics?",
-    "text": "What’s the origin of Statistics?\nStarting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:\n\nDemography → statistical summaries\nAstronomy → theory of errors → normal distribution\nGambling → probability theory\nAgriculture → experimental design"
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#demography",
-    "href": "teaching/lecture1_slides16-25.html#demography",
-    "title": "Quantitative Methods",
-    "section": "Demography",
-    "text": "Demography\nJohn Graunt, a London haberdasher, born in 1620, tried to predict and explain social phenomena from tables he compiled from the “Bills of Mortality”."
-  },
-  {
-    "objectID": "teaching/lecture1_slides16-25.html#astronomy",
-    "href": "teaching/lecture1_slides16-25.html#astronomy",
-    "title": "Quantitative Methods",
-    "section": "Astronomy",
-    "text": "Astronomy\nFor science to progress, scientists propose hypotheses to test.\n\nIn order to do that, they need to collect data…\n\n\nIn order to collect data, scientists must make experimental measurements."
+    "text": "psychreviews\nA searchable index of book reviews published in psychology and adjacent fields: cognitive science, psychiatry, and the philosophy of mind and phenomenology. The index currently covers more than 56,000 reviews from over 50 journals, spanning 1851 to today, with filters by subfield, journal, and year, and an RSS feed of new entries. Inspired by PhilReviews. Each entry links to the review at the publisher’s site."
   },
   {
     "objectID": "teaching/lecture1-slides.html#section",
@@ -740,6 +579,181 @@
     "title": "Quantitative Methods",
     "section": "What are the limits of Statistics?",
     "text": "What are the limits of Statistics?\nCan data answer every possible question?"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#what-is-statistics",
+    "href": "teaching/lecture1_slides16-25.html#what-is-statistics",
+    "title": "Quantitative Methods",
+    "section": "What is Statistics?",
+    "text": "What is Statistics?\n\n\nThe practice of collecting and collating numerical facts\n\nGoes back to beginning of human civilization.\n… in 1749, word Statistik introduced by Gottfried Achenwall.\nFrom the Latin statisticum (“of the state”).\nIt designated the collection of data about the state."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#the-definition-of-statistics",
+    "href": "teaching/lecture1_slides16-25.html#the-definition-of-statistics",
+    "title": "Quantitative Methods",
+    "section": "The Definition of Statistics",
+    "text": "The Definition of Statistics\n\n\n\nThe process of reasoning about the data collected\n\nInferential statistics:\n\nParameter estimation\nHypothesis testing"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#why-do-we-need-statistics",
+    "href": "teaching/lecture1_slides16-25.html#why-do-we-need-statistics",
+    "title": "Quantitative Methods",
+    "section": "Why do we need statistics?",
+    "text": "Why do we need statistics?\n\nWhat is biology about?\nWhat is economics about?\nWhat is sociology about?\n…What is statistics about?\n\n\nStatistics is about variation.\nStatistics helps us make sense of the data and how the data vary.\nStatistics is a collection of conceptual and mathematical tools that allow us to study such variation."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#why-is-statistics-important-for-psychology",
+    "href": "teaching/lecture1_slides16-25.html#why-is-statistics-important-for-psychology",
+    "title": "Quantitative Methods",
+    "section": "Why is Statistics important for Psychology?",
+    "text": "Why is Statistics important for Psychology?\nThe use of Statistics qualifies Psychology as a science…\n\nUsing statistics we can determine whether a psychological hypothesis is true for a wider population, or whether a treatment works or not.\n\n\nStatistical methods provide a unifying force within Psychology."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics",
+    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nStarting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:\n\n\n\nField\nContribution\n\n\n\n\nDemography\nStatistical summaries\n\n\nAstronomy\nTheory of errors, normal distribution\n\n\nGambling\nProbability theory\n\n\nAgriculture\nExperimental design"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-1",
+    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-1",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nLet’s take a step back…\n\nIn 1687 Newton published Principia Mathematica\n\nLaws of motion, gravitation\nNow it’s possible to predict mathematically the movement of objects, including stars!\n\n\n\nBut what about other complex phenomena?"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-2",
+    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-2",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nAt some point it was found that many events follow what we call a normal distribution.\nHow did they find out?"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-3",
+    "href": "teaching/lecture1_slides16-25.html#whats-the-origin-of-statistics-3",
+    "title": "Quantitative Methods",
+    "section": "What’s the origin of Statistics?",
+    "text": "What’s the origin of Statistics?\nStarting from the 17th century, Statistics (the process of reasoning about the data) originated from different fields:\n\nDemography → statistical summaries\nAstronomy → theory of errors → normal distribution\nGambling → probability theory\nAgriculture → experimental design"
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#demography",
+    "href": "teaching/lecture1_slides16-25.html#demography",
+    "title": "Quantitative Methods",
+    "section": "Demography",
+    "text": "Demography\nJohn Graunt, a London haberdasher, born in 1620, tried to predict and explain social phenomena from tables he compiled from the “Bills of Mortality”."
+  },
+  {
+    "objectID": "teaching/lecture1_slides16-25.html#astronomy",
+    "href": "teaching/lecture1_slides16-25.html#astronomy",
+    "title": "Quantitative Methods",
+    "section": "Astronomy",
+    "text": "Astronomy\nFor science to progress, scientists propose hypotheses to test.\n\nIn order to do that, they need to collect data…\n\n\nIn order to collect data, scientists must make experimental measurements."
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership",
+    "section": "",
+    "text": "[Content about OSU Postdoctoral Association Co-Chair role will go here]"
+  },
+  {
+    "objectID": "leadership.html#osu-postdoctoral-association-co-chair",
+    "href": "leadership.html#osu-postdoctoral-association-co-chair",
+    "title": "Leadership",
+    "section": "",
+    "text": "[Content about OSU Postdoctoral Association Co-Chair role will go here]"
+  },
+  {
+    "objectID": "leadership.html#cognitive-science-graduate-group-president",
+    "href": "leadership.html#cognitive-science-graduate-group-president",
+    "title": "Leadership",
+    "section": "Cognitive Science Graduate Group President",
+    "text": "Cognitive Science Graduate Group President\n[Content about Cognitive Science Graduate Group President role will go here]"
+  },
+  {
+    "objectID": "leadership.html#columbia-university-gs-award-committee-co-chair",
+    "href": "leadership.html#columbia-university-gs-award-committee-co-chair",
+    "title": "Leadership",
+    "section": "Columbia University GS Award Committee Co-Chair",
+    "text": "Columbia University GS Award Committee Co-Chair\n[Content about Columbia University GS Award Committee Co-Chair role will go here]\n\n\n\nSTEAM Exchange 2023"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow.\n Teaching Philosophy  Teaching Evaluations"
+  },
+  {
+    "objectID": "teaching.html#overview",
+    "href": "teaching.html#overview",
+    "title": "Teaching",
+    "section": "",
+    "text": "I approach teaching through three core principles: respecting students as individuals with unique experiences, engaging them with genuine enthusiasm for the material, and providing opportunities that enhance both critical thinking and career prospects. I see each classroom as a space where mutual respect allows for deep engagement with ideas that help students grow.\n Teaching Philosophy  Teaching Evaluations"
+  },
+  {
+    "objectID": "teaching.html#quantitative-methods-in-psychology",
+    "href": "teaching.html#quantitative-methods-in-psychology",
+    "title": "Teaching",
+    "section": "Quantitative Methods in Psychology",
+    "text": "Quantitative Methods in Psychology\n Course website\nAn intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills."
+  },
+  {
+    "objectID": "teaching.html#cognition-lab",
+    "href": "teaching.html#cognition-lab",
+    "title": "Teaching",
+    "section": "Cognition Lab",
+    "text": "Cognition Lab\n Course website\nThis course bridges theoretical knowledge and practical research skills through active experimentation. Each week, students explore a new experimental paradigm—examining its theoretical foundations and methodological underpinnings—before building it from the ground up using PsychoPy, collecting their own data, and drafting corresponding report sections. The course culminates in an original research project where students design their own study, collect data from peers, conduct analyses, and produce a complete research report. The course develops both technical proficiency and the research mindset essential for conducting independent psychological investigations.\nStudents build cognitive experiments from the ground up using PsychoPy, gaining deep understanding of research methodology through direct experience."
+  },
+  {
+    "objectID": "teaching.html#expository-writing",
+    "href": "teaching.html#expository-writing",
+    "title": "Teaching",
+    "section": "Expository Writing",
+    "text": "Expository Writing\n Course website\nThis freshman seminar approaches writing as a tool for intellectual discovery and academic engagement. Students learn to identify unexpected connections between texts, construct original arguments, and articulate complex ideas with clarity and precision. The course emphasizes revision, peer collaboration, and intellectual risk-taking within a supportive community. Students gain confidence in their ability to contribute meaningfully to academic conversations across disciplines."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "I’m a postdoctoral fellow at The Ohio State University, working with Dr. Ivy Tso. I received a PhD in Cognitive Psychology from Rutgers University in 2023, and I hold a BA in Psychology and Statistics from Columbia University.\nI study social cognition and the processes that support it, from gaze detection to face processing to social wayfinding. I am particularly interested in how these processes vary across individuals, including people on the autism spectrum. I approach these questions using behavioral tasks, virtual reality, eye tracking, and computational modeling.\nI have taught courses on quantitative methods in psychology, cognitive science, and expository writing. I’m also passionate about statistics and its philosophical underpinnings.\n\nAlso known as Serena De Stefani."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on social cognition and the cognitive processes that support it, including gaze detection, face processing, and spatial navigation. I use behavioral experiments, virtual reality, eye tracking, and computational modeling to understand how these abilities vary across individuals, with a particular focus on people on the autism spectrum."
+  },
+  {
+    "objectID": "about.html#journal-articles",
+    "href": "about.html#journal-articles",
+    "title": "Research",
+    "section": "Journal articles",
+    "text": "Journal articles\n\nDeStefani, S., Blain, S., Kraft, J., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026) “The dynamics of social gaze: visual attention and autonomic arousal among individuals with varying levels of autistic traits,” Research in Autism. (in press)\nLink PDF\n\n\nSohn, S., DeStefani, S., Schwartz, M., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). “On the Separability of Human Navigational Behaviors in Virtual Reality,” Proceedings for the 47th Annual Meeting of the Cognitive Science Society.\nLink PDF\n\n\nDeStefani, S., Stromswold, K., & Feldman, J. (2020). “Integration of visual and spoken cues in a virtual reality navigation task,” Proceedings for the 42nd Annual Meeting of the Cognitive Science Society.\nLink PDF\n\n\nSohn, S., DeStefani, S., Kapadia, M. (2018). “Dynamic Cognitive Maps for Agent Landmark Navigation in Unseen Environments,” MIG 2018 Proceedings.\nLink PDF"
+  },
+  {
+    "objectID": "about.html#under-review",
+    "href": "about.html#under-review",
+    "title": "Research",
+    "section": "Under review",
+    "text": "Under review\n* student co-author\n\nKemp, K., Blain, S. D., Zehra, S., DeStefani, S., Locarno, L., Mathis, K., Lasagna, C., & Tso, I. F. (2025). “Sex Differences in Social Cognition: Insights from a Sample Enriched for Social Dysfunction.” (in revision)\nPreprint\n\n\n*Kvetnoy, A., Suchojad, J., DeStefani, S., Stromswold, K., Feldman, J. (2025). “The role of eye gaze in social wayfinding.” (in revision)\nPreprint\n\n\nDeStefani, S., Sohn, S., Schwartz, M., *Sharma, Y., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). “Behavioral effects of anti-pandemic preventive measures: a VR study.”\nPreprint\n\n\nDeStefani, S., Blain, S., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026). “Visual Exploration Efficiency Moderates the Association Between Autistic Traits and Social Cognition.”\nPreprint\n\n\nMathis, K., Blain, S. D., Locarno, L., Lasagna, C., DeStefani, S., Kraft, J., Colombi, C., Thakkar, K., Burton, C., & Tso, I. F. (2026). “The link between basic visual processing and higher-level social cognition: Eye gaze perception as a mechanistic bridge in a transdiagnostic sample enriched with social dysfunction.”\nPreprint"
+  },
+  {
+    "objectID": "teaching/lecture1.html",
+    "href": "teaching/lecture1.html",
+    "title": "Lecture 1: Introduction",
+    "section": "",
+    "text": "This lecture introduces the course and covers the definition of statistics, a brief history of the field, data and variables, and categorical data displays.\n\n Open slides in full screen"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF) \n\n\n&lt;p&gt;\nYour browser does not support PDFs. &lt;a href=\"DeStefani_CV.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
   },
   {
     "objectID": "CLAUDE.html",

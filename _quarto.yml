@@ -23,6 +23,8 @@ website:
         href: about.qmd
       - text: '<i class="fa-solid fa-person-chalkboard fa-lg fa-fw"></i> Teaching'
         href: teaching.qmd
+      - text: '<i class="fa-solid fa-book-open fa-lg fa-fw"></i> Resources'
+        href: resources.qmd
     right:
       - text: '<i class="fa-solid fa-at fa-lg fa-fw"></i>'
         href: "mailto:serenadestefani@gmail.com"
