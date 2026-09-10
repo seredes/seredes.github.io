@@ -16,40 +16,19 @@ website:
   twitter-card:
     card-style: summary
   navbar:
+    title: false
     pinned: true
     search: false
-    left:
-      - text: '<i class="fa-solid fa-flask fa-lg fa-fw"></i> Research'
-        href: about.qmd
-      - text: '<i class="fa-solid fa-person-chalkboard fa-lg fa-fw"></i> Teaching'
-        href: teaching.qmd
-      - text: '<i class="fa-solid fa-book-open fa-lg fa-fw"></i> Resources'
-        href: resources.qmd
+    collapse: false
     right:
-      - text: '<i class="fa-solid fa-at fa-lg fa-fw"></i>'
-        href: "mailto:serenadestefani@gmail.com"
-        aria-label: Email
-        target: _blank
-      - text: '<i class="fa-brands fa-linkedin fa-lg fa-fw"></i>'
-        href: "https://www.linkedin.com/in/serena-destefani-84341b4a/"
-        aria-label: LinkedIn
-        target: _blank
-      - text: '<i class="fa-brands fa-github fa-lg fa-fw"></i>'
-        href: "https://github.com/seredes"
-        aria-label: GitHub
-        target: _blank
-      - text: '<i class="fa-brands fa-x-twitter fa-lg fa-fw"></i>'
-        href: "https://x.com/_DeStefani"
-        aria-label: X
-        target: _blank
-      - text: '<i class="fa-brands fa-bluesky fa-lg fa-fw"></i>'
-        href: "https://bsky.app"
-        aria-label: Bluesky
-        target: _blank
-      - text: '<i class="fa-brands fa-google-scholar fa-lg fa-fw"></i>'
-        href: "https://scholar.google.com/citations?user=vAy73eMAAAAJ&hl=en"
-        aria-label: Google Scholar
-        target: _blank
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: about.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Resources
+        href: resources.qmd
 
   page-footer:
     left: "© 2026 Serena DeStefani"
@@ -57,7 +36,9 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme:
+      light: styles.scss
+      dark: [styles.scss, styles-dark.scss]
     grid:
       body-width: 900px
     toc: true

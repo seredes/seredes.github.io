@@ -15,7 +15,19 @@ My research focuses on social cognition and the cognitive processes that support
 ## Journal articles
 
 :::: {.pub-entry}
-**DeStefani, S.,** Blain, S., Kraft, J., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026) "The dynamics of social gaze: visual attention and autonomic arousal among individuals with varying levels of autistic traits," *Research in Autism*. (in press)
+Kemp, K. C., Blain, S. D., Zehra, S., **DeStefani, S.,** Locarno, L., Mathis, K., Lasagna, C. A., Colombi, C., Burton, C. Z., Moe, A. M., & Tso, I. F. (2026). "Sex differences in social cognition: Insights from a sample enriched for social dysfunction." *PLOS ONE*.
+
+[Preprint](files/preprints/Kemp_PLOSOne_Manuscript_RR_final.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
+::::
+
+:::: {.pub-entry}
+Mathis, K., Blain, S. D., Locarno, L., Lasagna, C. A., **DeStefani, S.,** Kraft, J., Colombi, C., Thakkar, K. N., Burton, C. Z., & Tso, I. F. (2026). "The link between basic visual processing and higher-level social cognition: Eye gaze perception as a bridge in a transdiagnostic sample enriched with social dysfunction." *Psychological Medicine, 56*, e152.
+
+[Link](https://doi.org/10.1017/S0033291726104589){.btn .btn-pub .btn-sm target="_blank"} [PDF](files/papers/Mathis_etal_2026_PsychologicalMedicine.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
+::::
+
+:::: {.pub-entry}
+**DeStefani, S.,** Blain, S. D., Kraft, J. D., Locarno, L., Mathis, K., Lasagna, C. A., Colombi, C., Burton, C. Z., Turner, J. A., Thakkar, K. N., & Tso, I. F. (2026). "The dynamics of social gaze: Visual attention and autonomic arousal among individuals with varying levels of autistic traits." *Research in Autism, 131*, 202821.
 
 [Link](https://doi.org/10.1016/j.reia.2026.202821){.btn .btn-pub .btn-sm target="_blank"} [PDF](files/papers/DeStefani_etal_2026_ResearchInAutism.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::
@@ -43,12 +55,6 @@ Sohn, S., **DeStefani, S.,** Kapadia, M. (2018). "Dynamic Cognitive Maps for Age
 \* *student co-author*
 
 :::: {.pub-entry}
-Kemp, K., Blain, S. D., Zehra, S., **DeStefani, S.,** Locarno, L., Mathis, K., Lasagna, C., & Tso, I. F. (2025). "Sex Differences in Social Cognition: Insights from a Sample Enriched for Social Dysfunction." (in revision)
-
-[Preprint](files/preprints/Kemp_PLOSOne_Manuscript_RR_final.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
-::::
-
-:::: {.pub-entry}
 \*Kvetnoy, A., Suchojad, J., **DeStefani, S.,** Stromswold, K., Feldman, J. (2025). "The role of eye gaze in social wayfinding." (in revision)
 
 [Preprint](files/preprints/Kvetnoy_gaze_direction_preprint.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
@@ -64,10 +70,4 @@ Kemp, K., Blain, S. D., Zehra, S., **DeStefani, S.,** Locarno, L., Mathis, K., L
 **DeStefani, S.,** Blain, S., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026). "Visual Exploration Efficiency Moderates the Association Between Autistic Traits and Social Cognition."
 
 [Preprint](files/preprints/DeStefani_precision_manuscript.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
-::::
-
-:::: {.pub-entry}
-Mathis, K., Blain, S. D., Locarno, L., Lasagna, C., **DeStefani, S.,** Kraft, J., Colombi, C., Thakkar, K., Burton, C., & Tso, I. F. (2026). "The link between basic visual processing and higher-level social cognition: Eye gaze perception as a mechanistic bridge in a transdiagnostic sample enriched with social dysfunction."
-
-[Preprint](files/preprints/Mathis_Visual_Gaze_Manuscript_preprint.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::

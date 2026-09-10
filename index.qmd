@@ -1,13 +1,8 @@
 ---
-title: "Hello!"
 pagetitle: "Serena DeStefani"
 page-navigation: false
 toc: false
-page-layout: full
-title-block-banner: "#CF4446"
-about:
-  id: hero-heading
-  template: trestles
+body-classes: home-page
 image: images/profile.jpg
 format:
   html:
@@ -15,16 +10,32 @@ format:
       text: '<meta name="description" content="Serena DeStefani -- Postdoctoral researcher in cognitive psychology at The Ohio State University. Research on social cognition, gaze detection, face processing, and autism.">'
 ---
 
-:::{#hero-heading}
+```{=html}
+<div class="home-profile">
+  <img class="home-photo" src="images/profile.jpg" alt="Serena DeStefani" width="125">
+  <header class="home-intro quarto-title-block">
+    <h1>Serena DeStefani, PhD</h1>
+    <p class="home-affiliation">Postdoctoral Scholar<br>Department of Psychiatry &amp; Behavioral Health<br>The Ohio State University Wexner Medical Center</p>
+    <p class="home-affiliation">Co-chair of the Ohio State Postdoctoral Association (PDA)</p>
+    <div class="home-links" aria-label="CV and profiles">
+      <a class="home-cv" href="DeStefani_CV.pdf">CV</a>
+      <a href="https://scholar.google.com/citations?user=vAy73eMAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar" aria-hidden="true"></i></a>
+      <a href="https://www.linkedin.com/in/serena-destefani-84341b4a/" aria-label="LinkedIn" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+      <a href="https://github.com/seredes" aria-label="GitHub" title="GitHub" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
+      <a href="https://x.com/_DeStefani" aria-label="X" title="X" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
+      <a href="https://bsky.app" aria-label="Bluesky" title="Bluesky" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-bluesky" aria-hidden="true"></i></a>
+    </div>
+    <p class="home-email">Email: <a href="mailto:serenadestefani@gmail.com">serenadestefani@gmail.com</a></p>
+  </header>
+</div>
+```
 
 I'm a postdoctoral fellow at The Ohio State University, working with Dr. Ivy Tso. I received a PhD in Cognitive Psychology from Rutgers University in 2023, and I hold a BA in Psychology and Statistics from Columbia University.
 
-I study social cognition and the processes that support it, from gaze detection to face processing to social wayfinding. I am particularly interested in how these processes vary across individuals, including people on the autism spectrum. I approach these questions using behavioral tasks, virtual reality, eye tracking, and computational modeling.
+I study social cognition and the processes that support it, from gaze detection to face processing to social navigation. I am particularly interested in how these processes vary across individuals. I approach these questions using behavioral tasks, virtual reality, eye tracking, and computational modeling.
 
 I have taught courses on quantitative methods in psychology, cognitive science, and expository writing. I'm also passionate about statistics and its philosophical underpinnings.
 
 ::: {.visually-hidden}
 Also known as Serena De Stefani.
-:::
-
 :::

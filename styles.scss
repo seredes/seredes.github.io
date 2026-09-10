@@ -1,181 +1,288 @@
 /*-- scss:defaults --*/
 
-//
-// Color system
-//
+$font-family-sans-serif: "Roboto", Arial, sans-serif !default;
+$font-size-root: 16px !default;
+$font-size-base: 1.05rem !default;
+$line-height-base: 1.7 !default;
+$headings-font-weight: 300 !default;
+$h1-font-size: 2.2rem !default;
+$h2-font-size: 2rem !default;
+$h3-font-size: 1.4rem !default;
 
-$white:    #ffffff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #dee2e6 !default;
-$gray-400: #ced4da !default;
-$gray-500: #adb5bd !default;
-$gray-600: #868e96 !default;
-$gray-700: #495057 !default;
-$gray-800: #373a3c !default;
-$gray-900: #212529 !default;
-$black:    #000000 !default;
-
-$purple:  #170C3A !default;
-$pink:    #A52C60 !default;
-$red:     #CF4446 !default;
-$orange:  #EE6A24 !default;
-$light-orange: #FB9E07 !default;
-
-$primary:   $pink !default;
-$danger:    $red !default;
-
-// Fonts
-$font-family-sans-serif: system-ui, -apple-system, sans-serif !default;
-$headings-font-family: $font-family-sans-serif !default;
-$navbar-font-family: $font-family-sans-serif !default;
-$toc-font-family: $font-family-sans-serif !default;
-$footer-font-family: $font-family-sans-serif !default;
-
-// Body
-$body-color: $gray-900 !default;
-
-// Links
-$link-color: $orange !default;
+$body-bg: #ffffff !default;
+$body-color: #111111 !default;
+$link-color: #f26b21 !default;
+$link-hover-color: #c14c0d !default;
 $link-decoration: none !default;
-$link-hover-color: $red !default;
 $link-hover-decoration: underline !default;
-
-// Inline code
-$code-bg: $gray-200 !default;
-$code-color: $gray-900 !default;
-
-// TOC
-$toc-color: $orange;
-$toc-font-size: 1em;
-
-// Navbar
-$navbar-bg: $purple !default;
-$navbar-fg: $white !default;
-$navbar-hl: $light-orange !default;
-
-// Footer
-$footer-bg: $gray-900 !default;
-$footer-fg: $gray-300 !default;
+$primary: $link-color !default;
+$navbar-bg: $body-bg !default;
+$navbar-fg: $body-color !default;
+$navbar-hl: $link-color !default;
+$footer-bg: $body-bg !default;
+$footer-fg: #737373 !default;
+$border-color: #e5e5e5 !default;
+$code-bg: #f5f5f5 !default;
+$code-color: $body-color !default;
+$toc-font-size: 0.9rem !default;
+$toc-color: $link-color !default;
 
 /*-- scss:rules --*/
 
 body {
-    -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 300;
 }
 
-// Compensate for lighter-appearing link color
-a {
-  font-weight: 600;
-}
-
-// Navbar
-.navbar {
-  font-family: $font-family-sans-serif;
-}
-
-.navbar-nav .nav-link {
+strong, b {
   font-weight: 700;
 }
 
-.navbar-nav .nav-link,
-.navbar-nav .nav-link i {
-  color: $white !important;
+main p {
+  margin-bottom: 1.15rem;
 }
 
-.navbar-nav .nav-link:hover,
-.navbar-nav .nav-link:hover i {
-  color: $light-orange !important;
+h1, h2, h3 {
+  font-weight: 300;
 }
 
-.navbar-nav .nav-link.active {
-  color: $white !important;
+h2 {
+  border-bottom: 0;
+  padding-bottom: 0;
+  margin-top: 2rem;
 }
 
-// About page image
-.about-entity img {
-  max-width: 340px;
-  height: auto;
+a:focus-visible {
+  outline: 2px solid $link-color;
+  outline-offset: 4px;
 }
 
-// About page centered layout
-.quarto-about-trestles {
-  display: flex;
+// Keep the navigation aligned with the reading column.
+#quarto-header .navbar {
+  padding: 0;
+  border-bottom: 1px solid $border-color;
+  box-shadow: none;
+}
+
+.navbar > .navbar-container {
+  width: 100%;
+  max-width: 930px;
+  min-height: 50px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.navbar .navbar-brand-container {
+  display: none;
+}
+
+.navbar .quarto-navbar-tools {
+  order: 30;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: $body-color;
+  font-size: 1rem;
+  font-weight: 300;
+  padding: 0.6rem 0.5rem;
+}
+
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link:hover {
+  color: $link-color;
+}
+
+// Use moon and sun icons on Quarto's built-in theme control.
+.quarto-color-scheme-toggle {
+  color: $body-color;
+  width: 30px;
+  height: 36px;
+  margin-left: 0.25rem;
+  display: inline-flex;
   align-items: center;
+  justify-content: center;
 }
 
-.about-contents p {
-  font-weight: 500;
+.quarto-color-scheme-toggle .bi {
+  display: none;
 }
 
-// Title block banner
-#title-block-header {
-    .quarto-title-banner {
-        font-family: $font-family-sans-serif;
-
-        .description {
-            font-size: 1.1em;
-            margin-top: 1em !important;
-        }
-
-        // Consistent left alignment regardless of TOC placement
-        .quarto-title {
-            grid-column: screen-start / screen-end !important;
-            padding-left: 1.5em;
-        }
-    }
+.quarto-color-scheme-toggle::before {
+  font-family: "bootstrap-icons";
+  content: "\f494";
+  font-size: 1.25rem;
+  line-height: 1;
 }
 
-// TOC
-#TOC {
-    font-family: $font-family-sans-serif;
-    padding-bottom: 0.1em;
-    font-weight: 300;
-
-    .active {
-        font-weight: 400;
-    }
-
-    #toc-title {
-        font-weight: 600;
-    }
+body.quarto-dark .quarto-color-scheme-toggle::before {
+  content: "\f5a1";
 }
 
-// Footer
+.quarto-color-scheme-toggle:hover {
+  color: $link-color;
+  text-decoration: none;
+}
+
+// Replace the colored page banners with plain page titles.
+#title-block-header.quarto-title-block.default .quarto-title-banner {
+  background: $body-bg !important;
+  color: $body-color !important;
+  padding-top: 2.5rem;
+  padding-bottom: 0;
+  margin-bottom: 1.5rem;
+}
+
+#title-block-header .quarto-title-banner h1,
+#title-block-header .quarto-title-banner .subtitle {
+  color: $body-color;
+  font-weight: 300;
+}
+
+// Homepage profile and biography.
+body.home-page #quarto-content {
+  display: block;
+  width: calc(100% - 40px);
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+body.home-page #quarto-document-content {
+  margin-top: 0;
+  padding-top: 2rem !important;
+}
+
+.home-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.55rem;
+  margin-bottom: 1.5rem;
+}
+
+.home-photo {
+  display: block;
+  flex: 0 0 125px;
+  width: 125px;
+  max-width: 125px;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+}
+
+.home-intro {
+  min-width: 0;
+}
+
+.home-intro h1 {
+  font-size: 1.25rem;
+  font-weight: 300;
+  line-height: 1.1;
+  margin: 0 0 0.15rem;
+}
+
+.home-intro .home-affiliation {
+  font-weight: 400;
+  line-height: 1.15;
+  margin: 0 0 0.3rem;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.7rem;
+  margin: 0.35rem 0 0.2rem;
+}
+
+.home-links a {
+  color: $body-color;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.home-links .home-cv {
+  border: 1px solid currentColor;
+  border-radius: 2px;
+  padding: 0.2rem 0.45rem;
+  font-size: 0.85rem;
+  font-weight: 400;
+}
+
+.home-links a:hover {
+  color: $link-color;
+  text-decoration: none;
+}
+
+.home-intro .home-email {
+  margin: 0;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+
+.home-email a {
+  color: $body-color;
+  font-style: italic;
+}
+
+.home-email a:hover {
+  color: $link-color;
+}
+
+// Keep the footer quiet and consistent with either theme.
 .nav-footer {
-    align-items: flex-start;
-    flex-wrap: wrap;
-    border: 0 !important;
-    min-height: 3em;
-    font-family: $font-family-sans-serif;
+  max-width: 930px;
+  margin: 0 auto;
+  padding: 1rem 15px;
+  border-top: 1px solid $border-color;
+  font-size: 0.8rem;
+}
 
-    a {
-        color: $light-orange;
-    }
+.nav-footer a {
+  color: $footer-fg;
+}
 
-    .nav-footer-left,
-    .nav-footer-right,
-    .nav-footer-center {
-        text-align: center;
-        width: 100%;
-        min-height: 2em;
-    }
+// Publication and course links use simple outlined buttons.
+.pub-entry {
+  margin-bottom: 1.5rem;
 
-    @media (min-width: 768px) {
-        .nav-footer-left {
-            text-align: left;
-        }
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
 
-        .nav-footer-right {
-            text-align: right;
-        }
+.btn-pub,
+.btn-pub-outline {
+  background: transparent;
+  color: $body-color;
+  border: 1px solid $body-color;
+  border-radius: 2px;
+  font-weight: 400;
 
-        .nav-footer-left,
-        .nav-footer-right,
-        .nav-footer-center {
-            flex: 1 1 33%;
-        }
-    }
+  &:hover, &:focus-visible {
+    background: transparent;
+    color: $link-color;
+    border-color: $link-color;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .navbar > .navbar-container {
+    padding: 0 10px;
+  }
+
+  .navbar .navbar-nav .nav-link {
+    font-size: 0.9rem;
+    padding-right: 0.4rem;
+    padding-left: 0.4rem;
+  }
+
+  .home-profile {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .home-photo {
+    flex-basis: auto;
+  }
 }
 
 // Slide detail page
@@ -205,40 +312,4 @@ a {
   width: 100%;
   height: 100%;
   border: none;
-}
-
-// Publication entries
-.pub-entry {
-  border-left: 3px solid $orange;
-  padding-left: 1em;
-  margin-bottom: 1.5em;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-}
-
-.btn-pub {
-  background-color: $orange;
-  color: $white;
-  border: 1px solid $orange;
-  font-weight: 600;
-
-  &:hover {
-    background-color: $red;
-    border-color: $red;
-    color: $white;
-  }
-}
-
-.btn-pub-outline {
-  background-color: $white;
-  color: $orange;
-  border: 1px solid $orange;
-  font-weight: 600;
-
-  &:hover {
-    background-color: $orange;
-    color: $white;
-  }
 }
