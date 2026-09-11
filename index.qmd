@@ -29,11 +29,11 @@ format:
 </div>
 ```
 
-I'm a postdoctoral fellow at The Ohio State University, working with Dr. Ivy Tso. I received a PhD in Cognitive Psychology from Rutgers University in 2023, and I hold a BA in Psychology and Statistics from Columbia University.
+I'm a postdoctoral fellow at [The Ohio State University](https://www.osu.edu/), working with [Dr. Ivy Tso](https://u.osu.edu/ivytsolab/). I received a PhD in Cognitive Psychology from [Rutgers University](https://www.rutgers.edu/) in 2023, and I hold a BA in Psychology and Statistics from [Columbia University](https://www.columbia.edu/).
 
-I study how basic perceptual and cognitive processes shape the way we perceive and respond to other people, using behavioral experiments, virtual reality, eye tracking, and computational modeling. My recent work examines how people explore faces and interpret eye gaze, and how these processes relate to individual differences in social cognition. My goal is to explain how differences in the way we gather and interpret information contribute to differences in social experience and behavior.
+I study how basic perceptual and cognitive processes shape the way we perceive and respond to other people, using behavioral experiments, virtual reality, eye tracking, and computational modeling. [My recent work](about.qmd) examines how people explore faces and interpret eye gaze, and how these processes relate to individual differences in social cognition. My goal is to explain how differences in the way we gather and interpret information contribute to differences in social experience and behavior.
 
-I have taught courses on quantitative methods in psychology, cognitive science, and expository writing. I'm also passionate about statistics and its philosophical underpinnings.
+I have taught courses on [quantitative methods in psychology](https://seredes.github.io/quant-methods-psych/), [cognitive science](https://seredes.github.io/cognitive-lab/), and [expository writing](https://seredes.github.io/exp_writing/). I'm also passionate about statistics and its philosophical underpinnings.
 
 ::: {.visually-hidden}
 Also known as Serena De Stefani.
