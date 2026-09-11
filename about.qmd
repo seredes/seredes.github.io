@@ -15,9 +15,9 @@ My recent work examines how visual attention supports social perception. Using e
 ## Journal articles
 
 :::: {.pub-entry}
-Kemp, K. C., Blain, S. D., Zehra, S., **DeStefani, S.,** Locarno, L., Mathis, K., Lasagna, C. A., Colombi, C., Burton, C. Z., Moe, A. M., & Tso, I. F. (2026). "Sex differences in social cognition: Insights from a sample enriched for social dysfunction." *PLOS ONE*.
+**DeStefani, S.,** Blain, S. D., Kraft, J. D., Locarno, L., Mathis, K., Lasagna, C. A., Colombi, C., Burton, C. Z., Turner, J. A., Thakkar, K. N., & Tso, I. F. (2026). "The dynamics of social gaze: Visual attention and autonomic arousal among individuals with varying levels of autistic traits." *Research in Autism, 131*, 202821.
 
-[Preprint](files/preprints/Kemp_PLOSOne_Manuscript_RR_final.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
+[Link](https://doi.org/10.1016/j.reia.2026.202821){.btn .btn-pub .btn-sm target="_blank"} [PDF](files/papers/DeStefani_etal_2026_ResearchInAutism.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::
 
 :::: {.pub-entry}
@@ -27,9 +27,9 @@ Mathis, K., Blain, S. D., Locarno, L., Lasagna, C. A., **DeStefani, S.,** Kraft,
 ::::
 
 :::: {.pub-entry}
-**DeStefani, S.,** Blain, S. D., Kraft, J. D., Locarno, L., Mathis, K., Lasagna, C. A., Colombi, C., Burton, C. Z., Turner, J. A., Thakkar, K. N., & Tso, I. F. (2026). "The dynamics of social gaze: Visual attention and autonomic arousal among individuals with varying levels of autistic traits." *Research in Autism, 131*, 202821.
+Kemp, K. C., Blain, S. D., Zehra, S., **DeStefani, S.,** Locarno, L., Mathis, K., Lasagna, C. A., Colombi, C., Burton, C. Z., Moe, A. M., & Tso, I. F. (2026). "Sex differences in social cognition: Insights from a sample enriched for social dysfunction." *PLOS ONE*.
 
-[Link](https://doi.org/10.1016/j.reia.2026.202821){.btn .btn-pub .btn-sm target="_blank"} [PDF](files/papers/DeStefani_etal_2026_ResearchInAutism.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
+[Preprint](files/preprints/Kemp_PLOSOne_Manuscript_RR_final.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::
 
 :::: {.pub-entry}
