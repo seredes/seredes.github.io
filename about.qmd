@@ -55,6 +55,12 @@ Sohn, S., **DeStefani, S.,** Kapadia, M. (2018). "Dynamic Cognitive Maps for Age
 \* *student co-author*
 
 :::: {.pub-entry}
+**DeStefani, S.,** Blain, S., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026). "Visual Exploration Efficiency Moderates the Association Between Autistic Traits and Social Cognition."
+
+[Preprint](files/preprints/DeStefani_precision_manuscript.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
+::::
+
+:::: {.pub-entry}
 \*Kvetnoy, A., Suchojad, J., **DeStefani, S.,** Stromswold, K., Feldman, J. (2025). "The role of eye gaze in social wayfinding." (in revision)
 
 [Preprint](files/preprints/Kvetnoy_gaze_direction_preprint.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
@@ -64,10 +70,4 @@ Sohn, S., **DeStefani, S.,** Kapadia, M. (2018). "Dynamic Cognitive Maps for Age
 **DeStefani, S.,** Sohn, S., Schwartz, M., \*Sharma, Y., Roberts, F., Stromswold, K., Kapadia, M., Feldman, J. (2025). "Behavioral effects of anti-pandemic preventive measures: a VR study."
 
 [Preprint](files/preprints/DeStefani_COVID_article.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
-::::
-
-:::: {.pub-entry}
-**DeStefani, S.,** Blain, S., Locarno, L., Mathis, K., Lasagna, C., Colombi, C., Burton, C., Turner, J., Thakkar, K., Tso, I. (2026). "Visual Exploration Efficiency Moderates the Association Between Autistic Traits and Social Cognition."
-
-[Preprint](files/preprints/DeStefani_precision_manuscript.pdf){.btn .btn-pub-outline .btn-sm target="_blank"}
 ::::
