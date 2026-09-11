@@ -2,9 +2,9 @@
 
 $font-family-sans-serif: "Roboto", Arial, sans-serif !default;
 $font-size-root: 16px !default;
-$font-size-base: 1.05rem !default;
-$line-height-base: 1.7 !default;
-$headings-font-weight: 300 !default;
+$font-size-base: 1.125rem !default;
+$line-height-base: 1.65 !default;
+$headings-font-weight: 600 !default;
 $h1-font-size: 2.2rem !default;
 $h2-font-size: 2rem !default;
 $h3-font-size: 1.4rem !default;
@@ -20,18 +20,18 @@ $navbar-bg: $body-bg !default;
 $navbar-fg: $body-color !default;
 $navbar-hl: $link-color !default;
 $footer-bg: $body-bg !default;
-$footer-fg: #737373 !default;
+$footer-fg: $body-color !default;
 $border-color: #e5e5e5 !default;
 $code-bg: #f5f5f5 !default;
 $code-color: $body-color !default;
-$toc-font-size: 0.9rem !default;
+$toc-font-size: 1rem !default;
 $toc-color: $link-color !default;
 
 /*-- scss:rules --*/
 
 body {
   -webkit-font-smoothing: antialiased;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 strong, b {
@@ -43,7 +43,7 @@ main p {
 }
 
 h1, h2, h3 {
-  font-weight: 300;
+  font-weight: 600;
 }
 
 h2 {
@@ -82,8 +82,8 @@ a:focus-visible {
 
 .navbar .navbar-nav .nav-link {
   color: $body-color;
-  font-size: 1rem;
-  font-weight: 300;
+  font-size: 1.125rem;
+  font-weight: 400;
   padding: 0.6rem 0.5rem;
 }
 
@@ -135,7 +135,7 @@ body.quarto-dark .quarto-color-scheme-toggle::before {
 #title-block-header .quarto-title-banner h1,
 #title-block-header .quarto-title-banner .subtitle {
   color: $body-color;
-  font-weight: 300;
+  font-weight: 600;
 }
 
 // Homepage profile and biography.
@@ -148,21 +148,21 @@ body.home-page #quarto-content {
 
 body.home-page #quarto-document-content {
   margin-top: 0;
-  padding-top: 2rem !important;
+  padding-top: 3rem !important;
 }
 
 .home-profile {
   display: flex;
   align-items: flex-start;
-  gap: 1.55rem;
-  margin-bottom: 1.5rem;
+  gap: 2rem;
+  margin-bottom: 2rem;
 }
 
 .home-photo {
   display: block;
-  flex: 0 0 125px;
-  width: 125px;
-  max-width: 125px;
+  flex: 0 0 200px;
+  width: 200px;
+  max-width: 100%;
   height: auto;
   border-radius: 4px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
@@ -173,16 +173,16 @@ body.home-page #quarto-document-content {
 }
 
 .home-intro h1 {
-  font-size: 1.25rem;
-  font-weight: 300;
-  line-height: 1.1;
-  margin: 0 0 0.15rem;
+  font-size: 1.625rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0 0 0.6rem;
 }
 
 .home-intro .home-affiliation {
   font-weight: 400;
-  line-height: 1.15;
-  margin: 0 0 0.3rem;
+  line-height: 1.4;
+  margin: 0 0 0.6rem;
 }
 
 .home-links {
@@ -190,12 +190,12 @@ body.home-page #quarto-document-content {
   flex-wrap: wrap;
   align-items: center;
   gap: 0.35rem 0.7rem;
-  margin: 0.35rem 0 0.2rem;
+  margin: 0.65rem 0 0.6rem;
 }
 
 .home-links a {
   color: $body-color;
-  font-size: 1.1rem;
+  font-size: 1.25rem;
   line-height: 1;
 }
 
@@ -203,7 +203,7 @@ body.home-page #quarto-document-content {
   border: 1px solid currentColor;
   border-radius: 2px;
   padding: 0.2rem 0.45rem;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   font-weight: 400;
 }
 
@@ -227,17 +227,25 @@ body.home-page #quarto-document-content {
   color: $link-color;
 }
 
-// Keep the footer quiet and consistent with either theme.
+// Keep the footer readable and consistent with either theme.
 .nav-footer {
   max-width: 930px;
   margin: 0 auto;
   padding: 1rem 15px;
   border-top: 1px solid $border-color;
-  font-size: 0.8rem;
+  color: $footer-fg;
+  font-size: 1rem;
+  font-weight: 400;
 }
 
 .nav-footer a {
   color: $footer-fg;
+}
+
+.nav-footer .nav-footer-left,
+.nav-footer .nav-footer-center,
+.nav-footer .nav-footer-right {
+  font-size: inherit;
 }
 
 // Publication and course links use simple outlined buttons.
@@ -270,7 +278,7 @@ body.home-page #quarto-document-content {
   }
 
   .navbar .navbar-nav .nav-link {
-    font-size: 0.9rem;
+    font-size: 1rem;
     padding-right: 0.4rem;
     padding-left: 0.4rem;
   }
@@ -282,6 +290,11 @@ body.home-page #quarto-document-content {
 
   .home-photo {
     flex-basis: auto;
+    width: 160px;
+  }
+
+  body.home-page #quarto-document-content {
+    padding-top: 2rem !important;
   }
 }
 

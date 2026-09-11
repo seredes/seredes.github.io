@@ -32,7 +32,7 @@ website:
 
   page-footer:
     left: "© 2026 Serena DeStefani"
-    right: "Made with [Quarto](https://quarto.org/)"
+    right: 'Made with <i class="fa-solid fa-heart" role="img" aria-label="love" style="color: #000; font-size: 1em;"></i> and [Quarto](https://quarto.org/)'
 
 format:
   html:

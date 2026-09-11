@@ -12,11 +12,10 @@ format:
 
 ```{=html}
 <div class="home-profile">
-  <img class="home-photo" src="images/profile.jpg" alt="Serena DeStefani" width="125">
+  <img class="home-photo" src="images/profile.jpg" alt="Serena DeStefani" width="200">
   <header class="home-intro quarto-title-block">
     <h1>Serena DeStefani, PhD</h1>
     <p class="home-affiliation">Postdoctoral Scholar<br>Department of Psychiatry &amp; Behavioral Health<br>The Ohio State University Wexner Medical Center</p>
-    <p class="home-affiliation">Co-chair of the Ohio State Postdoctoral Association (PDA)</p>
     <div class="home-links" aria-label="CV and profiles">
       <a class="home-cv" href="DeStefani_CV.pdf">CV</a>
       <a href="https://scholar.google.com/citations?user=vAy73eMAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar" aria-hidden="true"></i></a>
