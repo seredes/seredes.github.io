@@ -10,7 +10,7 @@ format:
       text: '<meta name="description" content="Publications and research by Serena DeStefani on social cognition, gaze detection, face processing, virtual reality navigation, and autism spectrum differences.">'
 ---
 
-My research focuses on social cognition and the cognitive processes that support it, including gaze detection, face processing, and spatial navigation. I use behavioral experiments, virtual reality, eye tracking, and computational modeling to understand how these abilities vary across individuals, with a particular focus on people on the autism spectrum.
+My recent work examines how visual attention supports social perception. Using eye tracking and behavioral tasks, I study how people explore faces over time, how accurately they judge gaze direction, and how these processes relate to the ability to infer other people's mental states. I am particularly interested in how the timing and organization of visual exploration help explain individual differences in social understanding.
 
 ## Journal articles
 
