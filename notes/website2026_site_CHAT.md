@@ -1,11 +1,11 @@
-# Chat transcript: site (website work, Codex gpt-6-astra)
+# Chat transcript: site (website redesign and PsychReviews index)
 
 - **Codex session ID:** `01a08b79-381b-7090-9129-9206409d5ec4`
 - **Working directory:** `/Users/serenadestefani/Documents/git/seredes-website/seredes.github.io`
 - **tmux location:** session website2026, window 0 (site)
 - **First message:** 2026-09-10 13:19 UTC
 - **Last message:** 2026-09-14 01:01 UTC
-- **Exported:** 2026-09-15, dialogue only (no tool calls or tool output; Codex stores thinking encrypted, so it cannot be exported)
+- **Exported:** 2026-09-16, dialogue only (no tool calls or tool output; Codex stores thinking encrypted, so it cannot be exported)
 
 ---
 

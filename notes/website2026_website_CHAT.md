@@ -1,11 +1,11 @@
-# Chat transcript: website (website work, Codex gpt-6-astra)
+# Chat transcript: website (site typography, research text, CV)
 
 - **Codex session ID:** `01a08cc4-c3a5-7332-b6ad-3cb96c693455`
 - **Working directory:** `/Users/serenadestefani/Documents/git/seredes-website/seredes.github.io`
 - **tmux location:** session website2026, window 1 (website)
 - **First message:** 2026-09-10 19:22 UTC
-- **Last message:** 2026-09-14 01:01 UTC
-- **Exported:** 2026-09-15, dialogue only (no tool calls or tool output; Codex stores thinking encrypted, so it cannot be exported)
+- **Last message:** 2026-09-15 13:52 UTC
+- **Exported:** 2026-09-16, dialogue only (no tool calls or tool output; Codex stores thinking encrypted, so it cannot be exported)
 
 ---
 
@@ -284,4 +284,32 @@ I’ll move “Visual Exploration Efficiency Moderates the Association Between A
 That manuscript is now first under “Under review” on the [live Research page](https://seredes.github.io/about.html#under-review). The other two retain their relative order.
 
 The change is committed, pushed, and deployed.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### **Serena** — 2026-09-15 13:37 UTC
+
+I was checking my website, and the site review page is not loading. Can you see what's going on?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### **Codex** — 2026-09-15 13:37 UTC
+
+I’ll check the website’s links and the review-page destination to see where loading fails.
+
+Do you mean PsychReviews, the book-review site linked from your Resources page?
+- Yes, PsychReviews.
+- No, the Research page on my personal website.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### **Serena** — 2026-09-15 13:51 UTC
+
+Looks like it's working now.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### **Codex** — 2026-09-15 13:52 UTC
+
+The page also responded successfully when I checked. I haven’t changed anything, and I couldn’t establish what caused the earlier loading problem.
 
