@@ -27,8 +27,6 @@ website:
         href: about.qmd
       - text: Teaching
         href: teaching.qmd
-      - text: Resources
-        href: resources.qmd
 
   page-footer:
     left: "© 2026 Serena DeStefani"
